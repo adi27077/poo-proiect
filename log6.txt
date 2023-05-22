@@ -1,0 +1,1527 @@
+Battle Log 6
+========================Aventura========================
+TRAINER: {
+Name: Moromete
+Age: 30
+Pokemons:
+	POKEMON: {
+	Name: Squirtle
+	HP: 60
+	Normal Attack: N/A
+	Special Attack: 3
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+	Items: [ITEM: {Name='Pelerină', Special Def +3}, ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Baghetă Magică', Special Attack +3}]
+	POKEMON: {
+	Name: Pikachu
+	HP: 35
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 2
+	Special Def: 3
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+	Items: [ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}, ITEM: {Name='Pelerină', Special Def +3}]
+	POKEMON: {
+	Name: Psyduck
+	HP: 43
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 2, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 5}
+	}
+	Items: [ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Vestă', HP +10}]
+}
+TRAINER: {
+Name: Ion
+Age: 40
+Pokemons:
+	POKEMON: {
+	Name: Squirtle
+	HP: 60
+	Normal Attack: N/A
+	Special Attack: 3
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+	Items: [ITEM: {Name='Scut', Def +2, Special Def +2}, ITEM: {Name='Săbiuță', Attack +3}]
+	POKEMON: {
+	Name: Bulbasaur
+	HP: 42
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 1
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+	Items: [ITEM: {Name='Pelerină', Special Def +3}]
+	POKEMON: {
+	Name: Psyduck
+	HP: 43
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 2, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 5}
+	}
+	Items: None
+}
+==========Duel 1: Pokemon1 vs Pokemon1==========
+========Tip Batalie: Trainer vs Neutrel2========
+Squirtle (Moromete) vs Neutrel2
+Squirtle foloseste ITEM: {Name='Baghetă Magică', Special Attack +3}
+POKEMON: {
+	Name: Squirtle
+	HP: 60
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP: 60  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 18 (stunned)
+
+Squirtle atac special / Neutrel2 nu face nimic
+Squirtle HP: 60  , Abilitate 2 cooldown 1 
+Neutrel2 HP: 13
+
+Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP: 60  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 11 (stunned)
+
+Squirtle abilitate 1 / Neutrel2 nu face nimic
+Squirtle HP: 60 , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Neutrel2 HP: 7
+
+Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Neutrel2 HP: 5 (stunned)
+
+Squirtle atac special / Neutrel2 nu face nimic
+Squirtle HP: 60 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Neutrel2 HP: 0
+
+Moromete (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Squirtle (Ion) vs Neutrel2
+Squirtle foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Squirtle
+	HP: 60
+	Normal Attack: N/A
+	Special Attack: 3
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP: 60  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 18 (stunned)
+
+Squirtle abilitate 1 / Neutrel2 nu face nimic
+Squirtle HP: 60 , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Neutrel2 HP: 14
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 2  
+Neutrel2 HP: 12
+
+Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Neutrel2 HP: 10 (stunned)
+
+Squirtle abilitate 1 / Neutrel2 nu face nimic
+Squirtle HP: 60 , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Neutrel2 HP: 6
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 2  
+Neutrel2 HP: 4
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 1  
+Neutrel2 HP: 2
+
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 0
+
+Ion (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Squirtle (Moromete) vs Squirtle (Ion)
+Squirtle foloseste ITEM: {Name='Săbiuță', Attack +3}
+Squirtle foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 8
+	Special Def: 8
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Squirtle abilitate 1 / Squirtle atac special
+Squirtle HP: 61  , Abilitate 1 cooldown 3  
+Squirtle HP: 57   
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 61  , Abilitate 1 cooldown 2  
+Squirtle HP: 57   
+
+Squirtle atac special / Squirtle abilitate 1
+Squirtle HP: 57  , Abilitate 1 cooldown 1  
+Squirtle HP: 57  , Abilitate 1 cooldown 3 
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 57    
+Squirtle HP: 57  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 2 / Squirtle abilitate 2
+Squirtle HP: 55  (stunned) , Abilitate 2 cooldown 2 
+Squirtle HP: 55  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle nu face nimic
+Squirtle HP: 55   , Abilitate 2 cooldown 1 
+Squirtle HP: 55   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 55    
+Squirtle HP: 55   
+
+Squirtle abilitate 1 / Squirtle abilitate 2
+Squirtle HP: 53  (stunned), Abilitate 1 cooldown 3  
+Squirtle HP: 51   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 53  , Abilitate 1 cooldown 2  
+Squirtle HP: 51   , Abilitate 2 cooldown 1
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 53  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Squirtle HP: 49  (stunned) 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 53   , Abilitate 2 cooldown 1 
+Squirtle HP: 49   
+
+Squirtle abilitate 1 / Squirtle abilitate 1
+Squirtle HP: 49  , Abilitate 1 cooldown 3  
+Squirtle HP: 45  , Abilitate 1 cooldown 3 
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 49  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Squirtle HP: 43  (stunned), Abilitate 1 cooldown 2 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 49  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Squirtle HP: 43  , Abilitate 1 cooldown 1 
+
+Squirtle abilitate 1 / Squirtle abilitate 2
+Squirtle HP: 47  (stunned), Abilitate 1 cooldown 3  
+Squirtle HP: 39   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle abilitate 1
+Squirtle HP: 43  , Abilitate 1 cooldown 2  
+Squirtle HP: 39  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 43  , Abilitate 1 cooldown 1  
+Squirtle HP: 39  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 43   , Abilitate 2 cooldown 2 
+Squirtle HP: 37  (stunned), Abilitate 1 cooldown 1 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 43   , Abilitate 2 cooldown 1 
+Squirtle HP: 37   
+
+Squirtle abilitate 1 / Squirtle atac special
+Squirtle HP: 43  , Abilitate 1 cooldown 3  
+Squirtle HP: 33   
+
+Squirtle atac special / Squirtle abilitate 1
+Squirtle HP: 39  , Abilitate 1 cooldown 2  
+Squirtle HP: 33  , Abilitate 1 cooldown 3 
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 39  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Squirtle HP: 31  (stunned), Abilitate 1 cooldown 2 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 39   , Abilitate 2 cooldown 1 
+Squirtle HP: 31  , Abilitate 1 cooldown 1 
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 37  (stunned)  
+Squirtle HP: 31   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle abilitate 1
+Squirtle HP: 33    
+Squirtle HP: 31  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Squirtle abilitate 1 / Squirtle abilitate 2
+Squirtle HP: 31  (stunned), Abilitate 1 cooldown 3  
+Squirtle HP: 27  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 31  , Abilitate 1 cooldown 2  
+Squirtle HP: 27  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 29  (stunned), Abilitate 1 cooldown 1  
+Squirtle HP: 27   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 29    
+Squirtle HP: 27   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 27  (stunned)  
+Squirtle HP: 27   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 27    
+Squirtle HP: 27   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 25  (stunned)  
+Squirtle HP: 27   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 25    
+Squirtle HP: 27   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 25    
+Squirtle HP: 27   
+
+Squirtle abilitate 1 / Squirtle abilitate 2
+Squirtle HP: 23  (stunned), Abilitate 1 cooldown 3  
+Squirtle HP: 23   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 23  , Abilitate 1 cooldown 2  
+Squirtle HP: 23   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 21  (stunned), Abilitate 1 cooldown 1  
+Squirtle HP: 23   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle abilitate 1
+Squirtle HP: 17    
+Squirtle HP: 23  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 17    
+Squirtle HP: 23  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 17   , Abilitate 2 cooldown 2 
+Squirtle HP: 21  (stunned), Abilitate 1 cooldown 1 
+
+Squirtle abilitate 1 / Squirtle nu face nimic
+Squirtle HP: 17  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Squirtle HP: 17   
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 15  (stunned), Abilitate 1 cooldown 2  
+Squirtle HP: 17   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 15  , Abilitate 1 cooldown 1  
+Squirtle HP: 17   , Abilitate 2 cooldown 1
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 15   , Abilitate 2 cooldown 2 
+Squirtle HP: 15  (stunned) 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 15   , Abilitate 2 cooldown 1 
+Squirtle HP: 15   
+
+Squirtle abilitate 1 / Squirtle abilitate 1
+Squirtle HP: 11  , Abilitate 1 cooldown 3  
+Squirtle HP: 11  , Abilitate 1 cooldown 3 
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 11  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Squirtle HP: 9  (stunned), Abilitate 1 cooldown 2 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 11  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Squirtle HP: 9  , Abilitate 1 cooldown 1 
+
+Squirtle abilitate 2 / Squirtle abilitate 2
+Squirtle HP: 9  (stunned) , Abilitate 2 cooldown 2 
+Squirtle HP: 7  (stunned) , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle nu face nimic
+Squirtle HP: 9   , Abilitate 2 cooldown 1 
+Squirtle HP: 7   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 9    
+Squirtle HP: 7   
+
+Squirtle abilitate 2 / Squirtle abilitate 1
+Squirtle HP: 5   , Abilitate 2 cooldown 2 
+Squirtle HP: 5  (stunned), Abilitate 1 cooldown 3 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 5   , Abilitate 2 cooldown 1 
+Squirtle HP: 5  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 1 / Squirtle atac special
+Squirtle HP: 5  , Abilitate 1 cooldown 3  
+Squirtle HP: 1  , Abilitate 1 cooldown 1 
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 5  , Abilitate 1 cooldown 2  
+Squirtle HP: 1   
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 5  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Squirtle HP: 0  (stunned) 
+
+Moromete (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 62
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+==========Duel 2: Pokemon2 vs Pokemon2==========
+========Tip Batalie: Trainer vs Neutrel2========
+Pikachu (Moromete) vs Neutrel2
+Pikachu foloseste ITEM: {Name='Pelerină', Special Def +3}
+POKEMON: {
+	Name: Pikachu
+	HP: 35
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 2
+	Special Def: 6
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Pikachu abilitate 2 / Neutrel2 atac normal
+Pikachu HP: 35 (dodge)  , Abilitate 2 cooldown 5 
+Neutrel2 HP: 16 (stunned)
+
+Pikachu atac special / Neutrel2 nu face nimic
+Pikachu HP: 35  , Abilitate 2 cooldown 4 
+Neutrel2 HP: 13
+
+Pikachu atac special / Neutrel2 atac normal
+Pikachu HP: 33  , Abilitate 2 cooldown 3 
+Neutrel2 HP: 10
+
+Pikachu atac special / Neutrel2 atac normal
+Pikachu HP: 31  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 7
+
+Pikachu atac special / Neutrel2 atac normal
+Pikachu HP: 29  , Abilitate 2 cooldown 1 
+Neutrel2 HP: 4
+
+Pikachu abilitate 2 / Neutrel2 atac normal
+Pikachu HP: 29 (dodge)  , Abilitate 2 cooldown 5 
+Neutrel2 HP: 0 (stunned)
+
+Moromete (Pikachu) castiga lupta.
+Pikachu primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Pikachu
+	HP: 36
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+Bulbasaur (Ion) vs Neutrel2
+Bulbasaur foloseste ITEM: {Name='Pelerină', Special Def +3}
+POKEMON: {
+	Name: Bulbasaur
+	HP: 42
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP: 41   
+Neutrel2 HP: 16
+
+Bulbasaur abilitate 2 / Neutrel2 atac normal
+Bulbasaur HP: 40  , Abilitate 2 cooldown 3 
+Neutrel2 HP: 11
+
+Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP: 39  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 7
+
+Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP: 38  , Abilitate 2 cooldown 1 
+Neutrel2 HP: 3
+
+Bulbasaur abilitate 1 / Neutrel2 atac normal
+Bulbasaur HP: 37 , Abilitate 1 cooldown 4  
+Neutrel2 HP: 0
+
+Ion (Bulbasaur) castiga lupta.
+Bulbasaur primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Bulbasaur
+	HP: 43
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 4
+	Special Def: 2
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+========Tip Batalie: Trainer vs Neutrel2========
+Pikachu (Moromete) vs Neutrel2
+Pikachu foloseste ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}
+POKEMON: {
+	Name: Pikachu
+	HP: 38
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Pikachu atac special / Neutrel2 atac normal
+Pikachu HP: 37   
+Neutrel2 HP: 14
+
+Pikachu abilitate 2 / Neutrel2 atac normal
+Pikachu HP: 37 (dodge)  , Abilitate 2 cooldown 5 
+Neutrel2 HP: 10 (stunned)
+
+Pikachu atac special / Neutrel2 nu face nimic
+Pikachu HP: 37  , Abilitate 2 cooldown 4 
+Neutrel2 HP: 4
+
+Pikachu atac special / Neutrel2 atac normal
+Pikachu HP: 36  , Abilitate 2 cooldown 3 
+Neutrel2 HP: 0
+
+Moromete (Pikachu) castiga lupta.
+Pikachu primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Pikachu
+	HP: 37
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+Bulbasaur (Ion) vs Neutrel2
+POKEMON: {
+	Name: Bulbasaur
+	HP: 43
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 4
+	Special Def: 2
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Bulbasaur abilitate 2 / Neutrel2 atac normal
+Bulbasaur HP: 43  , Abilitate 2 cooldown 3 
+Neutrel2 HP: 15
+
+Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP: 43  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 10
+
+Bulbasaur abilitate 1 / Neutrel2 atac normal
+Bulbasaur HP: 43 , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1 
+Neutrel2 HP: 4
+
+Bulbasaur abilitate 2 / Neutrel2 atac normal
+Bulbasaur HP: 43 , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3 
+Neutrel2 HP: 0
+
+Ion (Bulbasaur) castiga lupta.
+Bulbasaur primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Bulbasaur
+	HP: 44
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 5
+	Special Def: 3
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Pikachu (Moromete) vs Bulbasaur (Ion)
+Pikachu foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Pikachu
+	HP: 37
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Bulbasaur
+	HP: 44
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 5
+	Special Def: 3
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+Pikachu atac special / Bulbasaur abilitate 1
+Pikachu HP: 31    
+Bulbasaur HP: 41  , Abilitate 1 cooldown 4 
+
+Pikachu abilitate 1 / Bulbasaur abilitate 2
+Pikachu HP: 26  , Abilitate 1 cooldown 4  
+Bulbasaur HP: 35  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3
+
+Pikachu atac special / Bulbasaur atac special
+Pikachu HP: 24  , Abilitate 1 cooldown 3  
+Bulbasaur HP: 32  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Pikachu atac special / Bulbasaur atac special
+Pikachu HP: 22  , Abilitate 1 cooldown 2  
+Bulbasaur HP: 29  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Pikachu abilitate 2 / Bulbasaur abilitate 1
+Pikachu HP: 22 (dodge)  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 5 
+Bulbasaur HP: 25  (stunned), Abilitate 1 cooldown 4 
+
+Pikachu atac special / Bulbasaur nu face nimic
+Pikachu HP: 22   , Abilitate 2 cooldown 4 
+Bulbasaur HP: 22  , Abilitate 1 cooldown 3 
+
+Pikachu atac special / Bulbasaur atac special
+Pikachu HP: 20   , Abilitate 2 cooldown 3 
+Bulbasaur HP: 19  , Abilitate 1 cooldown 2 
+
+Pikachu atac special / Bulbasaur abilitate 2
+Pikachu HP: 15   , Abilitate 2 cooldown 2 
+Bulbasaur HP: 16  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3
+
+Pikachu atac special / Bulbasaur abilitate 1
+Pikachu HP: 9   , Abilitate 2 cooldown 1 
+Bulbasaur HP: 13  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2
+
+Pikachu atac special / Bulbasaur atac special
+Pikachu HP: 7    
+Bulbasaur HP: 10  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Pikachu abilitate 1 / Bulbasaur abilitate 2
+Pikachu HP: 2  , Abilitate 1 cooldown 4  
+Bulbasaur HP: 4  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3
+
+Pikachu abilitate 2 / Bulbasaur atac special
+Pikachu HP: 2 (dodge)  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5 
+Bulbasaur HP: 0  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Moromete (Pikachu) castiga lupta.
+Pikachu primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Pikachu
+	HP: 38
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 5
+	Special Def: 6
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+==========Duel 3: Pokemon3 vs Pokemon3==========
+========Tip Batalie: Trainer vs Trainer========
+Psyduck (Moromete) vs Psyduck (Ion)
+Psyduck foloseste ITEM: {Name='Vestă', HP +10}
+POKEMON: {
+	Name: Psyduck
+	HP: 53
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 2, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 5}
+	}
+POKEMON: {
+	Name: Psyduck
+	HP: 43
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 2, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 5}
+	}
+Psyduck abilitate 2 / Psyduck atac normal
+Psyduck HP: 53   , Abilitate 2 cooldown 5 
+Psyduck HP: 41  (stunned) 
+
+Psyduck atac normal / Psyduck nu face nimic
+Psyduck HP: 53   , Abilitate 2 cooldown 4 
+Psyduck HP: 41   
+
+Psyduck abilitate 1 / Psyduck atac normal
+Psyduck HP: 53  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 3 
+Psyduck HP: 39   
+
+Psyduck atac normal / Psyduck abilitate 1
+Psyduck HP: 51  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Psyduck HP: 39  , Abilitate 1 cooldown 4 
+
+Psyduck atac normal / Psyduck abilitate 2
+Psyduck HP: 49  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Psyduck HP: 39  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5
+
+Psyduck nu face nimic / Psyduck atac normal
+Psyduck HP: 49  , Abilitate 1 cooldown 1  
+Psyduck HP: 39  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4
+
+Psyduck abilitate 2 / Psyduck atac normal
+Psyduck HP: 49   , Abilitate 2 cooldown 5 
+Psyduck HP: 37  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3
+
+Psyduck atac normal / Psyduck nu face nimic
+Psyduck HP: 49   , Abilitate 2 cooldown 4 
+Psyduck HP: 37   , Abilitate 2 cooldown 2
+
+Psyduck atac normal / Psyduck abilitate 1
+Psyduck HP: 47   , Abilitate 2 cooldown 3 
+Psyduck HP: 37  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 47   , Abilitate 2 cooldown 2 
+Psyduck HP: 37  , Abilitate 1 cooldown 3 
+
+Psyduck atac normal / Psyduck abilitate 2
+Psyduck HP: 45  (stunned) , Abilitate 2 cooldown 1 
+Psyduck HP: 37  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 5
+
+Psyduck nu face nimic / Psyduck atac normal
+Psyduck HP: 45    
+Psyduck HP: 37  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 4
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 45    
+Psyduck HP: 37   , Abilitate 2 cooldown 3
+
+Psyduck abilitate 1 / Psyduck atac normal
+Psyduck HP: 45  , Abilitate 1 cooldown 4  
+Psyduck HP: 35   , Abilitate 2 cooldown 2
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 45  , Abilitate 1 cooldown 3  
+Psyduck HP: 35   , Abilitate 2 cooldown 1
+
+Psyduck abilitate 2 / Psyduck atac normal
+Psyduck HP: 45  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 5 
+Psyduck HP: 33  (stunned) 
+
+Psyduck atac normal / Psyduck nu face nimic
+Psyduck HP: 45  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 4 
+Psyduck HP: 33   
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 45   , Abilitate 2 cooldown 3 
+Psyduck HP: 33   
+
+Psyduck abilitate 1 / Psyduck abilitate 1
+Psyduck HP: 43  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2 
+Psyduck HP: 31  , Abilitate 1 cooldown 4 
+
+Psyduck atac normal / Psyduck abilitate 2
+Psyduck HP: 41  (stunned), Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Psyduck HP: 31  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5
+
+Psyduck nu face nimic / Psyduck atac normal
+Psyduck HP: 41  , Abilitate 1 cooldown 2  
+Psyduck HP: 31  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 41  , Abilitate 1 cooldown 1  
+Psyduck HP: 31  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3
+
+Psyduck atac normal / Psyduck abilitate 1
+Psyduck HP: 39    
+Psyduck HP: 31  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2
+
+Psyduck abilitate 1 / Psyduck atac normal
+Psyduck HP: 39  , Abilitate 1 cooldown 4  
+Psyduck HP: 29  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 39  , Abilitate 1 cooldown 3  
+Psyduck HP: 29  , Abilitate 1 cooldown 2 
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 39  , Abilitate 1 cooldown 2  
+Psyduck HP: 29  , Abilitate 1 cooldown 1 
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 39  , Abilitate 1 cooldown 1  
+Psyduck HP: 29   
+
+Psyduck abilitate 1 / Psyduck abilitate 2
+Psyduck HP: 37  (stunned), Abilitate 1 cooldown 4  
+Psyduck HP: 27   , Abilitate 2 cooldown 5
+
+Psyduck nu face nimic / Psyduck atac normal
+Psyduck HP: 37  , Abilitate 1 cooldown 3  
+Psyduck HP: 27   , Abilitate 2 cooldown 4
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 37  , Abilitate 1 cooldown 2  
+Psyduck HP: 27   , Abilitate 2 cooldown 3
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 37  , Abilitate 1 cooldown 1  
+Psyduck HP: 27   , Abilitate 2 cooldown 2
+
+Psyduck abilitate 2 / Psyduck abilitate 1
+Psyduck HP: 35   , Abilitate 2 cooldown 5 
+Psyduck HP: 25  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1
+
+Psyduck abilitate 1 / Psyduck nu face nimic
+Psyduck HP: 35  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4 
+Psyduck HP: 23  , Abilitate 1 cooldown 3 
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 35  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3 
+Psyduck HP: 23  , Abilitate 1 cooldown 2 
+
+Psyduck atac normal / Psyduck abilitate 2
+Psyduck HP: 33  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Psyduck HP: 23  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 5
+
+Psyduck nu face nimic / Psyduck atac normal
+Psyduck HP: 33  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Psyduck HP: 23   , Abilitate 2 cooldown 4
+
+Psyduck abilitate 1 / Psyduck atac normal
+Psyduck HP: 33  , Abilitate 1 cooldown 4  
+Psyduck HP: 21   , Abilitate 2 cooldown 3
+
+Psyduck abilitate 2 / Psyduck atac normal
+Psyduck HP: 33  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5 
+Psyduck HP: 19  (stunned) , Abilitate 2 cooldown 2
+
+Psyduck atac normal / Psyduck nu face nimic
+Psyduck HP: 33  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4 
+Psyduck HP: 19   , Abilitate 2 cooldown 1
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 33  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Psyduck HP: 19   
+
+Psyduck abilitate 1 / Psyduck abilitate 1
+Psyduck HP: 31  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2 
+Psyduck HP: 17  , Abilitate 1 cooldown 4 
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 31  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Psyduck HP: 17  , Abilitate 1 cooldown 3 
+
+Psyduck abilitate 2 / Psyduck atac normal
+Psyduck HP: 31  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 5 
+Psyduck HP: 15  (stunned), Abilitate 1 cooldown 2 
+
+Psyduck atac normal / Psyduck nu face nimic
+Psyduck HP: 31  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 4 
+Psyduck HP: 15  , Abilitate 1 cooldown 1 
+
+Psyduck abilitate 1 / Psyduck abilitate 1
+Psyduck HP: 29  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 3 
+Psyduck HP: 13  , Abilitate 1 cooldown 4 
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 29  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Psyduck HP: 13  , Abilitate 1 cooldown 3 
+
+Psyduck atac normal / Psyduck abilitate 2
+Psyduck HP: 27  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Psyduck HP: 13  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 5
+
+Psyduck nu face nimic / Psyduck atac normal
+Psyduck HP: 27  , Abilitate 1 cooldown 1  
+Psyduck HP: 13  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 4
+
+Psyduck abilitate 2 / Psyduck atac normal
+Psyduck HP: 27   , Abilitate 2 cooldown 5 
+Psyduck HP: 11  (stunned) , Abilitate 2 cooldown 3
+
+Psyduck abilitate 1 / Psyduck nu face nimic
+Psyduck HP: 27  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4 
+Psyduck HP: 9   , Abilitate 2 cooldown 2
+
+Psyduck atac normal / Psyduck abilitate 1
+Psyduck HP: 25  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3 
+Psyduck HP: 9  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1
+
+Psyduck atac normal / Psyduck abilitate 2
+Psyduck HP: 23  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Psyduck HP: 9  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5
+
+Psyduck nu face nimic / Psyduck atac normal
+Psyduck HP: 23  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Psyduck HP: 9  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 23    
+Psyduck HP: 9  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3
+
+Psyduck abilitate 2 / Psyduck atac normal
+Psyduck HP: 23   , Abilitate 2 cooldown 5 
+Psyduck HP: 7  (stunned) , Abilitate 2 cooldown 2
+
+Psyduck atac normal / Psyduck nu face nimic
+Psyduck HP: 23   , Abilitate 2 cooldown 4 
+Psyduck HP: 7   , Abilitate 2 cooldown 1
+
+Psyduck abilitate 1 / Psyduck abilitate 2
+Psyduck HP: 21  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 3 
+Psyduck HP: 5   , Abilitate 2 cooldown 5
+
+Psyduck nu face nimic / Psyduck atac normal
+Psyduck HP: 21  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Psyduck HP: 5   , Abilitate 2 cooldown 4
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 21  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Psyduck HP: 5   , Abilitate 2 cooldown 3
+
+Psyduck atac normal / Psyduck abilitate 1
+Psyduck HP: 19  , Abilitate 1 cooldown 1  
+Psyduck HP: 5  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2
+
+Psyduck abilitate 1 / Psyduck atac normal
+Psyduck HP: 19  , Abilitate 1 cooldown 4  
+Psyduck HP: 3  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Psyduck abilitate 2 / Psyduck atac normal
+Psyduck HP: 19  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5 
+Psyduck HP: 1  (stunned), Abilitate 1 cooldown 2 
+
+Psyduck atac normal / Psyduck nu face nimic
+Psyduck HP: 19  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4 
+Psyduck HP: 1  , Abilitate 1 cooldown 1 
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 19  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Psyduck HP: 1   
+
+Psyduck atac normal / Psyduck abilitate 2
+Psyduck HP: 17  (stunned) , Abilitate 2 cooldown 2 
+Psyduck HP: 1   , Abilitate 2 cooldown 5
+
+Psyduck nu face nimic / Psyduck abilitate 1
+Psyduck HP: 15   , Abilitate 2 cooldown 1 
+Psyduck HP: 1  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4
+
+Psyduck atac normal / Psyduck atac normal
+Psyduck HP: 15    
+Psyduck HP: 1  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3
+
+Psyduck abilitate 2 / Psyduck atac normal
+Psyduck HP: 15   , Abilitate 2 cooldown 5 
+Psyduck HP: 0  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Moromete (Psyduck) castiga lupta.
+Psyduck primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Psyduck
+	HP: 44
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 4
+	Special Def: 4
+	Ability 1: {DMG: 2, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 5}
+	}
+==========Duel 4: Cel mai bun vs cel mai bun==========
+========Tip Batalie: Trainer vs Neutrel1========
+Squirtle (Moromete) vs Neutrel1
+Squirtle foloseste ITEM: {Name='Baghetă Magică', Special Attack +3}
+POKEMON: {
+	Name: Squirtle
+	HP: 62
+	Normal Attack: N/A
+	Special Attack: 8
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle abilitate 1 / Neutrel1 atac normal
+Squirtle HP: 62 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 6
+
+Squirtle atac special / Neutrel1 atac normal
+Squirtle HP: 62 , Abilitate 1 cooldown 2  
+Neutrel1 HP: 0
+
+Moromete (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 63
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 8
+	Special Def: 8
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Squirtle (Ion) vs Neutrel1
+Squirtle foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle abilitate 1 / Neutrel1 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 6
+
+Squirtle atac special / Neutrel1 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 2  
+Neutrel1 HP: 3
+
+Squirtle atac special / Neutrel1 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 1  
+Neutrel1 HP: 0
+
+Ion (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 62
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+========Tip Batalie: Trainer vs Neutrel2========
+Squirtle (Moromete) vs Neutrel2
+Squirtle foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Squirtle
+	HP: 63
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 8
+	Special Def: 8
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 63 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 16
+
+Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP: 63 , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Neutrel2 HP: 14 (stunned)
+
+Squirtle atac special / Neutrel2 nu face nimic
+Squirtle HP: 63 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Neutrel2 HP: 9
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 63   
+Neutrel2 HP: 4
+
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 63 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 0
+
+Moromete (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 64
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 9
+	Special Def: 9
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Squirtle (Ion) vs Neutrel2
+Squirtle foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Squirtle
+	HP: 62
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 9
+	Special Def: 9
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 62 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 16
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 62 , Abilitate 1 cooldown 2  
+Neutrel2 HP: 12
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 62 , Abilitate 1 cooldown 1  
+Neutrel2 HP: 8
+
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 62 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 4
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 62 , Abilitate 1 cooldown 2  
+Neutrel2 HP: 0
+
+Ion (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 63
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 8
+	Special Def: 8
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Squirtle (Moromete) vs Squirtle (Ion)
+Squirtle foloseste ITEM: {Name='Pelerină', Special Def +3}
+POKEMON: {
+	Name: Squirtle
+	HP: 64
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 9
+	Special Def: 12
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Squirtle
+	HP: 63
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 8
+	Special Def: 8
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 64    
+Squirtle HP: 63   
+
+Squirtle abilitate 2 / Squirtle abilitate 1
+Squirtle HP: 60   , Abilitate 2 cooldown 2 
+Squirtle HP: 61  (stunned), Abilitate 1 cooldown 3 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 60   , Abilitate 2 cooldown 1 
+Squirtle HP: 61  , Abilitate 1 cooldown 2 
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 60    
+Squirtle HP: 61  , Abilitate 1 cooldown 1 
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 60    
+Squirtle HP: 61   
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 58  (stunned)  
+Squirtle HP: 61   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle abilitate 1
+Squirtle HP: 54    
+Squirtle HP: 61  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 54    
+Squirtle HP: 61  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 2 / Squirtle abilitate 2
+Squirtle HP: 52  (stunned) , Abilitate 2 cooldown 2 
+Squirtle HP: 59  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle nu face nimic
+Squirtle HP: 52   , Abilitate 2 cooldown 1 
+Squirtle HP: 59   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle abilitate 1
+Squirtle HP: 48    
+Squirtle HP: 59  , Abilitate 1 cooldown 3 
+
+Squirtle abilitate 2 / Squirtle abilitate 2
+Squirtle HP: 46  (stunned) , Abilitate 2 cooldown 2 
+Squirtle HP: 57  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle nu face nimic
+Squirtle HP: 46   , Abilitate 2 cooldown 1 
+Squirtle HP: 57  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Squirtle abilitate 2 / Squirtle abilitate 1
+Squirtle HP: 42   , Abilitate 2 cooldown 2 
+Squirtle HP: 55  (stunned), Abilitate 1 cooldown 3 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 42   , Abilitate 2 cooldown 1 
+Squirtle HP: 55  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 1 / Squirtle abilitate 2
+Squirtle HP: 40  (stunned), Abilitate 1 cooldown 3  
+Squirtle HP: 51  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 40  , Abilitate 1 cooldown 2  
+Squirtle HP: 51   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 38  (stunned), Abilitate 1 cooldown 1  
+Squirtle HP: 51   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 38    
+Squirtle HP: 51   , Abilitate 2 cooldown 1
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 38   , Abilitate 2 cooldown 2 
+Squirtle HP: 49  (stunned) 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 38   , Abilitate 2 cooldown 1 
+Squirtle HP: 49   
+
+Squirtle abilitate 1 / Squirtle abilitate 2
+Squirtle HP: 36  (stunned), Abilitate 1 cooldown 3  
+Squirtle HP: 45   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 36  , Abilitate 1 cooldown 2  
+Squirtle HP: 45   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 34  (stunned), Abilitate 1 cooldown 1  
+Squirtle HP: 45   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 34    
+Squirtle HP: 45   , Abilitate 2 cooldown 1
+
+Squirtle abilitate 1 / Squirtle atac special
+Squirtle HP: 34  , Abilitate 1 cooldown 3  
+Squirtle HP: 41   
+
+Squirtle atac special / Squirtle abilitate 1
+Squirtle HP: 30  , Abilitate 1 cooldown 2  
+Squirtle HP: 41  , Abilitate 1 cooldown 3 
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 30  , Abilitate 1 cooldown 1  
+Squirtle HP: 41  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 1 / Squirtle atac special
+Squirtle HP: 30  , Abilitate 1 cooldown 3  
+Squirtle HP: 37  , Abilitate 1 cooldown 1 
+
+Squirtle atac special / Squirtle abilitate 1
+Squirtle HP: 26  , Abilitate 1 cooldown 2  
+Squirtle HP: 37  , Abilitate 1 cooldown 3 
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 26  , Abilitate 1 cooldown 1  
+Squirtle HP: 37  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 26   , Abilitate 2 cooldown 2 
+Squirtle HP: 35  (stunned), Abilitate 1 cooldown 1 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 26   , Abilitate 2 cooldown 1 
+Squirtle HP: 35   
+
+Squirtle abilitate 1 / Squirtle abilitate 2
+Squirtle HP: 24  (stunned), Abilitate 1 cooldown 3  
+Squirtle HP: 31   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle abilitate 1
+Squirtle HP: 20  , Abilitate 1 cooldown 2  
+Squirtle HP: 31  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 20  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Squirtle HP: 29  (stunned), Abilitate 1 cooldown 2 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 20   , Abilitate 2 cooldown 1 
+Squirtle HP: 29  , Abilitate 1 cooldown 1 
+
+Squirtle abilitate 1 / Squirtle atac special
+Squirtle HP: 20  , Abilitate 1 cooldown 3  
+Squirtle HP: 25   
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 18  (stunned), Abilitate 1 cooldown 2  
+Squirtle HP: 25   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 18  , Abilitate 1 cooldown 1  
+Squirtle HP: 25   , Abilitate 2 cooldown 1
+
+Squirtle abilitate 2 / Squirtle abilitate 1
+Squirtle HP: 14   , Abilitate 2 cooldown 2 
+Squirtle HP: 23  (stunned), Abilitate 1 cooldown 3 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 14   , Abilitate 2 cooldown 1 
+Squirtle HP: 23  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 14   , Abilitate 2 cooldown 2 
+Squirtle HP: 21  (stunned), Abilitate 1 cooldown 1 
+
+Squirtle abilitate 1 / Squirtle nu face nimic
+Squirtle HP: 14  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Squirtle HP: 17   
+
+Squirtle atac special / Squirtle abilitate 1
+Squirtle HP: 10  , Abilitate 1 cooldown 2  
+Squirtle HP: 17  , Abilitate 1 cooldown 3 
+
+Squirtle abilitate 2 / Squirtle abilitate 2
+Squirtle HP: 8  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Squirtle HP: 15  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle nu face nimic
+Squirtle HP: 8   , Abilitate 2 cooldown 1 
+Squirtle HP: 15  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Squirtle atac special / Squirtle abilitate 2
+Squirtle HP: 6  (stunned)  
+Squirtle HP: 15   , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Squirtle atac special
+Squirtle HP: 6    
+Squirtle HP: 15   , Abilitate 2 cooldown 1
+
+Squirtle abilitate 1 / Squirtle atac special
+Squirtle HP: 6  , Abilitate 1 cooldown 3  
+Squirtle HP: 11   
+
+Squirtle atac special / Squirtle abilitate 1
+Squirtle HP: 2  , Abilitate 1 cooldown 2  
+Squirtle HP: 11  , Abilitate 1 cooldown 3 
+
+Squirtle atac special / Squirtle atac special
+Squirtle HP: 2  , Abilitate 1 cooldown 1  
+Squirtle HP: 11  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 1 / Squirtle atac special
+Squirtle HP: 2  , Abilitate 1 cooldown 3  
+Squirtle HP: 7  , Abilitate 1 cooldown 1 
+
+Squirtle abilitate 2 / Squirtle atac special
+Squirtle HP: 2  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Squirtle HP: 5  (stunned) 
+
+Squirtle atac special / Squirtle nu face nimic
+Squirtle HP: 2  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Squirtle HP: 5   
+
+Squirtle abilitate 2 / Squirtle abilitate 1
+Squirtle HP: 0   , Abilitate 2 cooldown 2 
+Squirtle HP: 3  (stunned), Abilitate 1 cooldown 3 
+
+Ion (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 64
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 9
+	Special Def: 9
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}

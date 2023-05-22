@@ -1,0 +1,1274 @@
+Battle Log 5
+========================Aventura========================
+TRAINER: {
+Name: Georgel
+Age: 30
+Pokemons:
+	POKEMON: {
+	Name: Eevee
+	HP: 39
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+	Items: [ITEM: {Name='Scut', Def +2, Special Def +2}, ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Baghetă Magică', Special Attack +3}]
+	POKEMON: {
+	Name: Vulpix
+	HP: 36
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 2
+	Special Def: 4
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+	Items: [ITEM: {Name='Scut', Def +2, Special Def +2}, ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}, ITEM: {Name='Pelerină', Special Def +3}]
+	POKEMON: {
+	Name: Jigglypuff
+	HP: 34
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 2
+	Special Def: 3
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+	Items: [ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Vestă', HP +10}, ITEM: {Name='Scut', Def +2, Special Def +2}]
+}
+TRAINER: {
+Name: TotGeorgel
+Age: 30
+Pokemons:
+	POKEMON: {
+	Name: Eevee
+	HP: 39
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+	Items: [ITEM: {Name='Scut', Def +2, Special Def +2}, ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Baghetă Magică', Special Attack +3}]
+	POKEMON: {
+	Name: Vulpix
+	HP: 36
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 2
+	Special Def: 4
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+	Items: [ITEM: {Name='Scut', Def +2, Special Def +2}, ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}, ITEM: {Name='Pelerină', Special Def +3}]
+	POKEMON: {
+	Name: Jigglypuff
+	HP: 34
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 2
+	Special Def: 3
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+	Items: [ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Vestă', HP +10}, ITEM: {Name='Scut', Def +2, Special Def +2}]
+}
+==========Duel 1: Pokemon1 vs Pokemon1==========
+========Tip Batalie: Trainer vs Neutrel1========
+Eevee (Georgel) vs Neutrel1
+Eevee foloseste ITEM: {Name='Baghetă Magică', Special Attack +3}
+POKEMON: {
+	Name: Eevee
+	HP: 39
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 39   
+Neutrel1 HP: 4
+
+Eevee abilitate 2 / Neutrel1 atac normal
+Eevee HP: 39  , Abilitate 2 cooldown 3 
+Neutrel1 HP: 1 (stunned)
+
+Eevee atac special / Neutrel1 nu face nimic
+Eevee HP: 39  , Abilitate 2 cooldown 2 
+Neutrel1 HP: 0
+
+Georgel (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 40
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 4
+	Special Def: 4
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+Eevee (TotGeorgel) vs Neutrel1
+Eevee foloseste ITEM: {Name='Baghetă Magică', Special Attack +3}
+POKEMON: {
+	Name: Eevee
+	HP: 39
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 39   
+Neutrel1 HP: 4
+
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 39   
+Neutrel1 HP: 0
+
+TotGeorgel (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 40
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 4
+	Special Def: 4
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+========Tip Batalie: Trainer vs Neutrel1========
+Eevee (Georgel) vs Neutrel1
+Eevee foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Eevee
+	HP: 40
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 4
+	Special Def: 4
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee abilitate 1 / Neutrel1 atac normal
+Eevee HP: 40 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 5
+
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 40 , Abilitate 1 cooldown 2  
+Neutrel1 HP: 1
+
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 40 , Abilitate 1 cooldown 1  
+Neutrel1 HP: 0
+
+Georgel (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 41
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+Eevee (TotGeorgel) vs Neutrel1
+Eevee foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Eevee
+	HP: 40
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 4
+	Special Def: 4
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee abilitate 1 / Neutrel1 atac normal
+Eevee HP: 40 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 5
+
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 40 , Abilitate 1 cooldown 2  
+Neutrel1 HP: 1
+
+Eevee abilitate 2 / Neutrel1 atac normal
+Eevee HP: 40 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Neutrel1 HP: 0 (stunned)
+
+TotGeorgel (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 41
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Eevee (Georgel) vs Eevee (TotGeorgel)
+Eevee foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+Eevee foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Eevee
+	HP: 41
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Eevee
+	HP: 41
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+Eevee atac special / Eevee abilitate 2
+Eevee HP: 38  (stunned)  
+Eevee HP: 41   , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee abilitate 1
+Eevee HP: 33    
+Eevee HP: 41  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2
+
+Eevee atac special / Eevee atac special
+Eevee HP: 33    
+Eevee HP: 41  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1
+
+Eevee abilitate 2 / Eevee abilitate 2
+Eevee HP: 30  (stunned) , Abilitate 2 cooldown 3 
+Eevee HP: 38  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee nu face nimic
+Eevee HP: 30   , Abilitate 2 cooldown 2 
+Eevee HP: 38   , Abilitate 2 cooldown 2
+
+Eevee atac special / Eevee abilitate 1
+Eevee HP: 25   , Abilitate 2 cooldown 1 
+Eevee HP: 38  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Eevee abilitate 2 / Eevee atac special
+Eevee HP: 25   , Abilitate 2 cooldown 3 
+Eevee HP: 35  (stunned), Abilitate 1 cooldown 2 
+
+Eevee atac special / Eevee nu face nimic
+Eevee HP: 25   , Abilitate 2 cooldown 2 
+Eevee HP: 35  , Abilitate 1 cooldown 1 
+
+Eevee atac special / Eevee atac special
+Eevee HP: 25   , Abilitate 2 cooldown 1 
+Eevee HP: 35   
+
+Eevee abilitate 2 / Eevee abilitate 1
+Eevee HP: 20   , Abilitate 2 cooldown 3 
+Eevee HP: 32  (stunned), Abilitate 1 cooldown 3 
+
+Eevee atac special / Eevee nu face nimic
+Eevee HP: 20   , Abilitate 2 cooldown 2 
+Eevee HP: 32  , Abilitate 1 cooldown 2 
+
+Eevee atac special / Eevee atac special
+Eevee HP: 20   , Abilitate 2 cooldown 1 
+Eevee HP: 32  , Abilitate 1 cooldown 1 
+
+Eevee abilitate 1 / Eevee abilitate 1
+Eevee HP: 15  , Abilitate 1 cooldown 3  
+Eevee HP: 27  , Abilitate 1 cooldown 3 
+
+Eevee atac special / Eevee abilitate 2
+Eevee HP: 12  (stunned), Abilitate 1 cooldown 2  
+Eevee HP: 27  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee atac special
+Eevee HP: 12  , Abilitate 1 cooldown 1  
+Eevee HP: 27  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Eevee atac special / Eevee atac special
+Eevee HP: 12    
+Eevee HP: 27   , Abilitate 2 cooldown 1
+
+Eevee atac special / Eevee abilitate 2
+Eevee HP: 9  (stunned)  
+Eevee HP: 27   , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee atac special
+Eevee HP: 9    
+Eevee HP: 27   , Abilitate 2 cooldown 2
+
+Eevee atac special / Eevee abilitate 1
+Eevee HP: 4    
+Eevee HP: 27  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Eevee abilitate 2 / Eevee atac special
+Eevee HP: 4   , Abilitate 2 cooldown 3 
+Eevee HP: 24  (stunned), Abilitate 1 cooldown 2 
+
+Eevee atac special / Eevee nu face nimic
+Eevee HP: 4   , Abilitate 2 cooldown 2 
+Eevee HP: 24  , Abilitate 1 cooldown 1 
+
+Eevee atac special / Eevee abilitate 2
+Eevee HP: 1  (stunned) , Abilitate 2 cooldown 1 
+Eevee HP: 24   , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee abilitate 1
+Eevee HP: 0    
+Eevee HP: 24  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2
+
+TotGeorgel (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 42
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+==========Duel 2: Pokemon2 vs Pokemon2==========
+========Tip Batalie: Trainer vs Neutrel1========
+Vulpix (Georgel) vs Neutrel1
+Vulpix foloseste ITEM: {Name='Pelerină', Special Def +3}
+POKEMON: {
+	Name: Vulpix
+	HP: 36
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 2
+	Special Def: 7
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Vulpix abilitate 2 / Neutrel1 atac normal
+Vulpix HP: 36 (dodge)  , Abilitate 2 cooldown 7 
+Neutrel1 HP: 8
+
+Vulpix abilitate 1 / Neutrel1 atac normal
+Vulpix HP: 35 , Abilitate 1 cooldown 6 , Abilitate 2 cooldown 6 
+Neutrel1 HP: 0 (stunned)
+
+Georgel (Vulpix) castiga lupta.
+Vulpix primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Vulpix
+	HP: 37
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 3
+	Special Def: 5
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+Vulpix (TotGeorgel) vs Neutrel1
+Vulpix foloseste ITEM: {Name='Pelerină', Special Def +3}
+POKEMON: {
+	Name: Vulpix
+	HP: 36
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 2
+	Special Def: 7
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Vulpix abilitate 2 / Neutrel1 atac normal
+Vulpix HP: 36 (dodge)  , Abilitate 2 cooldown 7 
+Neutrel1 HP: 8
+
+Vulpix abilitate 1 / Neutrel1 atac normal
+Vulpix HP: 35 , Abilitate 1 cooldown 6 , Abilitate 2 cooldown 6 
+Neutrel1 HP: 0 (stunned)
+
+TotGeorgel (Vulpix) castiga lupta.
+Vulpix primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Vulpix
+	HP: 37
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 3
+	Special Def: 5
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+========Tip Batalie: Trainer vs Neutrel2========
+Vulpix (Georgel) vs Neutrel2
+Vulpix foloseste ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}
+POKEMON: {
+	Name: Vulpix
+	HP: 39
+	Normal Attack: 8
+	Special Attack: N/A
+	Def: 3
+	Special Def: 5
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP: 38 , Abilitate 1 cooldown 6  
+Neutrel2 HP: 12 (stunned)
+
+Vulpix atac normal / Neutrel2 nu face nimic
+Vulpix HP: 38 , Abilitate 1 cooldown 5  
+Neutrel2 HP: 5
+
+Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP: 37 , Abilitate 1 cooldown 4  
+Neutrel2 HP: 0
+
+Georgel (Vulpix) castiga lupta.
+Vulpix primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Vulpix
+	HP: 38
+	Normal Attack: 7
+	Special Attack: N/A
+	Def: 4
+	Special Def: 6
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+Vulpix (TotGeorgel) vs Neutrel2
+Vulpix foloseste ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}
+POKEMON: {
+	Name: Vulpix
+	HP: 39
+	Normal Attack: 8
+	Special Attack: N/A
+	Def: 3
+	Special Def: 5
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Vulpix abilitate 2 / Neutrel2 atac normal
+Vulpix HP: 37 (dodge)  , Abilitate 2 cooldown 7 
+Neutrel2 HP: 18
+
+Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP: 36  , Abilitate 2 cooldown 6 
+Neutrel2 HP: 11
+
+Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP: 35 , Abilitate 1 cooldown 6 , Abilitate 2 cooldown 5 
+Neutrel2 HP: 3 (stunned)
+
+Vulpix atac normal / Neutrel2 nu face nimic
+Vulpix HP: 35 , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 4 
+Neutrel2 HP: 0
+
+TotGeorgel (Vulpix) castiga lupta.
+Vulpix primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Vulpix
+	HP: 38
+	Normal Attack: 7
+	Special Attack: N/A
+	Def: 4
+	Special Def: 6
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Vulpix (Georgel) vs Vulpix (TotGeorgel)
+Vulpix foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+Vulpix foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Vulpix
+	HP: 38
+	Normal Attack: 7
+	Special Attack: N/A
+	Def: 6
+	Special Def: 8
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+POKEMON: {
+	Name: Vulpix
+	HP: 38
+	Normal Attack: 7
+	Special Attack: N/A
+	Def: 6
+	Special Def: 8
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+Vulpix abilitate 1 / Vulpix abilitate 1
+Vulpix HP: 30  (stunned), Abilitate 1 cooldown 6  
+Vulpix HP: 30  (stunned), Abilitate 1 cooldown 6 
+
+Vulpix nu face nimic / Vulpix nu face nimic
+Vulpix HP: 30  , Abilitate 1 cooldown 5  
+Vulpix HP: 30  , Abilitate 1 cooldown 5 
+
+Vulpix atac normal / Vulpix atac normal
+Vulpix HP: 29  , Abilitate 1 cooldown 4  
+Vulpix HP: 29  , Abilitate 1 cooldown 4 
+
+Vulpix atac normal / Vulpix atac normal
+Vulpix HP: 28  , Abilitate 1 cooldown 3  
+Vulpix HP: 28  , Abilitate 1 cooldown 3 
+
+Vulpix atac normal / Vulpix atac normal
+Vulpix HP: 27  , Abilitate 1 cooldown 2  
+Vulpix HP: 27  , Abilitate 1 cooldown 2 
+
+Vulpix atac normal / Vulpix abilitate 2
+Vulpix HP: 25  , Abilitate 1 cooldown 1  
+Vulpix HP: 27 (dodge)  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 7
+
+Vulpix atac normal / Vulpix abilitate 1
+Vulpix HP: 17  (stunned)  
+Vulpix HP: 26  , Abilitate 1 cooldown 6 , Abilitate 2 cooldown 6
+
+Vulpix nu face nimic / Vulpix atac normal
+Vulpix HP: 16    
+Vulpix HP: 26  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 5
+
+Vulpix abilitate 1 / Vulpix atac normal
+Vulpix HP: 15  , Abilitate 1 cooldown 6  
+Vulpix HP: 18  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4
+
+Vulpix atac normal / Vulpix nu face nimic
+Vulpix HP: 15  , Abilitate 1 cooldown 5  
+Vulpix HP: 17  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3
+
+Vulpix atac normal / Vulpix atac normal
+Vulpix HP: 14  , Abilitate 1 cooldown 4  
+Vulpix HP: 16  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Vulpix atac normal / Vulpix atac normal
+Vulpix HP: 13  , Abilitate 1 cooldown 3  
+Vulpix HP: 15  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Vulpix atac normal / Vulpix abilitate 2
+Vulpix HP: 11  , Abilitate 1 cooldown 2  
+Vulpix HP: 15 (dodge)   , Abilitate 2 cooldown 7
+
+Vulpix atac normal / Vulpix abilitate 1
+Vulpix HP: 3  (stunned), Abilitate 1 cooldown 1  
+Vulpix HP: 14  , Abilitate 1 cooldown 6 , Abilitate 2 cooldown 6
+
+Vulpix nu face nimic / Vulpix atac normal
+Vulpix HP: 2    
+Vulpix HP: 14  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 5
+
+Vulpix atac normal / Vulpix atac normal
+Vulpix HP: 1    
+Vulpix HP: 13  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4
+
+Vulpix abilitate 2 / Vulpix atac normal
+Vulpix HP: 1 (dodge)   , Abilitate 2 cooldown 7 
+Vulpix HP: 11  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3
+
+Vulpix atac normal / Vulpix atac normal
+Vulpix HP: 0   , Abilitate 2 cooldown 6 
+Vulpix HP: 10  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+TotGeorgel (Vulpix) castiga lupta.
+Vulpix primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Vulpix
+	HP: 39
+	Normal Attack: 8
+	Special Attack: N/A
+	Def: 5
+	Special Def: 7
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+==========Duel 3: Pokemon3 vs Pokemon3==========
+========Tip Batalie: Trainer vs Neutrel1========
+Jigglypuff (Georgel) vs Neutrel1
+Jigglypuff foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Jigglypuff
+	HP: 34
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Jigglypuff atac normal / Neutrel1 atac normal
+Jigglypuff HP: 34   
+Neutrel1 HP: 7
+
+Jigglypuff abilitate 2 / Neutrel1 atac normal
+Jigglypuff HP: 34  , Abilitate 2 cooldown 4 
+Neutrel1 HP: 4 (stunned)
+
+Jigglypuff atac normal / Neutrel1 nu face nimic
+Jigglypuff HP: 34  , Abilitate 2 cooldown 3 
+Neutrel1 HP: 1
+
+Jigglypuff atac normal / Neutrel1 atac normal
+Jigglypuff HP: 34  , Abilitate 2 cooldown 2 
+Neutrel1 HP: 0
+
+Georgel (Jigglypuff) castiga lupta.
+Jigglypuff primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Jigglypuff
+	HP: 35
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+Jigglypuff (TotGeorgel) vs Neutrel1
+Jigglypuff foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Jigglypuff
+	HP: 34
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Jigglypuff atac normal / Neutrel1 atac normal
+Jigglypuff HP: 34   
+Neutrel1 HP: 7
+
+Jigglypuff atac normal / Neutrel1 atac normal
+Jigglypuff HP: 34   
+Neutrel1 HP: 4
+
+Jigglypuff abilitate 1 / Neutrel1 atac normal
+Jigglypuff HP: 34 , Abilitate 1 cooldown 4  
+Neutrel1 HP: 0 (stunned)
+
+TotGeorgel (Jigglypuff) castiga lupta.
+Jigglypuff primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Jigglypuff
+	HP: 35
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+========Tip Batalie: Trainer vs Neutrel1========
+Jigglypuff (Georgel) vs Neutrel1
+Jigglypuff foloseste ITEM: {Name='Vestă', HP +10}
+POKEMON: {
+	Name: Jigglypuff
+	HP: 45
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Jigglypuff abilitate 2 / Neutrel1 atac normal
+Jigglypuff HP: 45  , Abilitate 2 cooldown 4 
+Neutrel1 HP: 7 (stunned)
+
+Jigglypuff atac normal / Neutrel1 nu face nimic
+Jigglypuff HP: 45  , Abilitate 2 cooldown 3 
+Neutrel1 HP: 3
+
+Jigglypuff atac normal / Neutrel1 atac normal
+Jigglypuff HP: 45  , Abilitate 2 cooldown 2 
+Neutrel1 HP: 0
+
+Georgel (Jigglypuff) castiga lupta.
+Jigglypuff primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Jigglypuff
+	HP: 36
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+Jigglypuff (TotGeorgel) vs Neutrel1
+Jigglypuff foloseste ITEM: {Name='Vestă', HP +10}
+POKEMON: {
+	Name: Jigglypuff
+	HP: 45
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Jigglypuff abilitate 1 / Neutrel1 atac normal
+Jigglypuff HP: 35 , Abilitate 1 cooldown 4  
+Neutrel1 HP: 6 (stunned)
+
+Jigglypuff atac normal / Neutrel1 nu face nimic
+Jigglypuff HP: 35 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 2
+
+Jigglypuff atac normal / Neutrel1 atac normal
+Jigglypuff HP: 35 , Abilitate 1 cooldown 2  
+Neutrel1 HP: 0
+
+TotGeorgel (Jigglypuff) castiga lupta.
+Jigglypuff primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Jigglypuff
+	HP: 36
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Jigglypuff (Georgel) vs Jigglypuff (TotGeorgel)
+Jigglypuff foloseste ITEM: {Name='Săbiuță', Attack +3}
+Jigglypuff foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Jigglypuff
+	HP: 36
+	Normal Attack: 9
+	Special Attack: N/A
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+POKEMON: {
+	Name: Jigglypuff
+	HP: 36
+	Normal Attack: 9
+	Special Attack: N/A
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+Jigglypuff abilitate 1 / Jigglypuff atac normal
+Jigglypuff HP: 31  , Abilitate 1 cooldown 4  
+Jigglypuff HP: 32  (stunned) 
+
+Jigglypuff atac normal / Jigglypuff nu face nimic
+Jigglypuff HP: 31  , Abilitate 1 cooldown 3  
+Jigglypuff HP: 27   
+
+Jigglypuff abilitate 2 / Jigglypuff abilitate 2
+Jigglypuff HP: 28  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4 
+Jigglypuff HP: 24  (stunned) , Abilitate 2 cooldown 4
+
+Jigglypuff nu face nimic / Jigglypuff nu face nimic
+Jigglypuff HP: 28  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Jigglypuff HP: 24   , Abilitate 2 cooldown 3
+
+Jigglypuff atac normal / Jigglypuff atac normal
+Jigglypuff HP: 23   , Abilitate 2 cooldown 2 
+Jigglypuff HP: 19   , Abilitate 2 cooldown 2
+
+Jigglypuff atac normal / Jigglypuff atac normal
+Jigglypuff HP: 18   , Abilitate 2 cooldown 1 
+Jigglypuff HP: 14   , Abilitate 2 cooldown 1
+
+Jigglypuff abilitate 1 / Jigglypuff abilitate 1
+Jigglypuff HP: 14  (stunned), Abilitate 1 cooldown 4  
+Jigglypuff HP: 10  (stunned), Abilitate 1 cooldown 4 
+
+Jigglypuff nu face nimic / Jigglypuff nu face nimic
+Jigglypuff HP: 14  , Abilitate 1 cooldown 3  
+Jigglypuff HP: 10  , Abilitate 1 cooldown 3 
+
+Jigglypuff atac normal / Jigglypuff atac normal
+Jigglypuff HP: 9  , Abilitate 1 cooldown 2  
+Jigglypuff HP: 5  , Abilitate 1 cooldown 2 
+
+Jigglypuff atac normal / Jigglypuff atac normal
+Jigglypuff HP: 4  , Abilitate 1 cooldown 1  
+Jigglypuff HP: 0  , Abilitate 1 cooldown 1 
+
+Georgel (Jigglypuff) castiga lupta.
+Jigglypuff primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Jigglypuff
+	HP: 37
+	Normal Attack: 7
+	Special Attack: N/A
+	Def: 5
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+==========Duel 4: Cel mai bun vs cel mai bun==========
+========Tip Batalie: Trainer vs Neutrel1========
+Eevee (Georgel) vs Neutrel1
+Eevee foloseste ITEM: {Name='Baghetă Magică', Special Attack +3}
+POKEMON: {
+	Name: Eevee
+	HP: 41
+	Normal Attack: N/A
+	Special Attack: 9
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 41   
+Neutrel1 HP: 2
+
+Eevee abilitate 1 / Neutrel1 atac normal
+Eevee HP: 41 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 0
+
+Georgel (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 42
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+Eevee (TotGeorgel) vs Neutrel1
+Eevee foloseste ITEM: {Name='Baghetă Magică', Special Attack +3}
+POKEMON: {
+	Name: Eevee
+	HP: 42
+	Normal Attack: N/A
+	Special Attack: 10
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee abilitate 1 / Neutrel1 atac normal
+Eevee HP: 42 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 5
+
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 42 , Abilitate 1 cooldown 2  
+Neutrel1 HP: 0
+
+TotGeorgel (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 43
+	Normal Attack: N/A
+	Special Attack: 8
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+========Tip Batalie: Trainer vs Neutrel1========
+Eevee (Georgel) vs Neutrel1
+Eevee foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Eevee
+	HP: 42
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee abilitate 2 / Neutrel1 atac normal
+Eevee HP: 42  , Abilitate 2 cooldown 3 
+Neutrel1 HP: 7 (stunned)
+
+Eevee atac special / Neutrel1 nu face nimic
+Eevee HP: 42  , Abilitate 2 cooldown 2 
+Neutrel1 HP: 1
+
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 42  , Abilitate 2 cooldown 1 
+Neutrel1 HP: 0
+
+Georgel (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 43
+	Normal Attack: N/A
+	Special Attack: 8
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+Eevee (TotGeorgel) vs Neutrel1
+Eevee foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Eevee
+	HP: 43
+	Normal Attack: N/A
+	Special Attack: 8
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 43   
+Neutrel1 HP: 3
+
+Eevee atac special / Neutrel1 atac normal
+Eevee HP: 43   
+Neutrel1 HP: 0
+
+TotGeorgel (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 44
+	Normal Attack: N/A
+	Special Attack: 9
+	Def: 8
+	Special Def: 8
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Eevee (Georgel) vs Eevee (TotGeorgel)
+Eevee foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+Eevee foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Eevee
+	HP: 43
+	Normal Attack: N/A
+	Special Attack: 8
+	Def: 9
+	Special Def: 9
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Eevee
+	HP: 44
+	Normal Attack: N/A
+	Special Attack: 9
+	Def: 10
+	Special Def: 10
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+Eevee atac special / Eevee abilitate 2
+Eevee HP: 40  (stunned)  
+Eevee HP: 44   , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee atac special
+Eevee HP: 40    
+Eevee HP: 44   , Abilitate 2 cooldown 2
+
+Eevee atac special / Eevee atac special
+Eevee HP: 40    
+Eevee HP: 44   , Abilitate 2 cooldown 1
+
+Eevee atac special / Eevee abilitate 2
+Eevee HP: 37  (stunned)  
+Eevee HP: 44   , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee atac special
+Eevee HP: 37    
+Eevee HP: 44   , Abilitate 2 cooldown 2
+
+Eevee atac special / Eevee atac special
+Eevee HP: 37    
+Eevee HP: 44   , Abilitate 2 cooldown 1
+
+Eevee abilitate 2 / Eevee abilitate 2
+Eevee HP: 34  (stunned) , Abilitate 2 cooldown 3 
+Eevee HP: 41  (stunned) , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee nu face nimic
+Eevee HP: 34   , Abilitate 2 cooldown 2 
+Eevee HP: 41   , Abilitate 2 cooldown 2
+
+Eevee atac special / Eevee atac special
+Eevee HP: 34   , Abilitate 2 cooldown 1 
+Eevee HP: 41   , Abilitate 2 cooldown 1
+
+Eevee abilitate 2 / Eevee abilitate 1
+Eevee HP: 29   , Abilitate 2 cooldown 3 
+Eevee HP: 38  (stunned), Abilitate 1 cooldown 3 
+
+Eevee abilitate 1 / Eevee nu face nimic
+Eevee HP: 29  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Eevee HP: 33  , Abilitate 1 cooldown 2 
+
+Eevee atac special / Eevee atac special
+Eevee HP: 29  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Eevee HP: 33  , Abilitate 1 cooldown 1 
+
+Eevee atac special / Eevee abilitate 1
+Eevee HP: 24  , Abilitate 1 cooldown 1  
+Eevee HP: 33  , Abilitate 1 cooldown 3 
+
+Eevee atac special / Eevee abilitate 2
+Eevee HP: 21  (stunned)  
+Eevee HP: 33  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee atac special
+Eevee HP: 21    
+Eevee HP: 33  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Eevee atac special / Eevee atac special
+Eevee HP: 21    
+Eevee HP: 33   , Abilitate 2 cooldown 1
+
+Eevee abilitate 1 / Eevee atac special
+Eevee HP: 21  , Abilitate 1 cooldown 3  
+Eevee HP: 28   
+
+Eevee atac special / Eevee abilitate 2
+Eevee HP: 18  (stunned), Abilitate 1 cooldown 2  
+Eevee HP: 28   , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee abilitate 1
+Eevee HP: 13  , Abilitate 1 cooldown 1  
+Eevee HP: 28  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2
+
+Eevee atac special / Eevee atac special
+Eevee HP: 13    
+Eevee HP: 28  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1
+
+Eevee abilitate 2 / Eevee abilitate 2
+Eevee HP: 10  (stunned) , Abilitate 2 cooldown 3 
+Eevee HP: 25  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3
+
+Eevee nu face nimic / Eevee nu face nimic
+Eevee HP: 10   , Abilitate 2 cooldown 2 
+Eevee HP: 25   , Abilitate 2 cooldown 2
+
+Eevee atac special / Eevee atac special
+Eevee HP: 10   , Abilitate 2 cooldown 1 
+Eevee HP: 25   , Abilitate 2 cooldown 1
+
+Eevee atac special / Eevee abilitate 1
+Eevee HP: 5    
+Eevee HP: 25  , Abilitate 1 cooldown 3 
+
+Eevee atac special / Eevee atac special
+Eevee HP: 5    
+Eevee HP: 25  , Abilitate 1 cooldown 2 
+
+Eevee abilitate 2 / Eevee atac special
+Eevee HP: 5   , Abilitate 2 cooldown 3 
+Eevee HP: 22  (stunned), Abilitate 1 cooldown 1 
+
+Eevee abilitate 1 / Eevee nu face nimic
+Eevee HP: 5  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Eevee HP: 17   
+
+Eevee atac special / Eevee atac special
+Eevee HP: 5  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Eevee HP: 17   
+
+Eevee atac special / Eevee abilitate 1
+Eevee HP: 0  , Abilitate 1 cooldown 1  
+Eevee HP: 17  , Abilitate 1 cooldown 3 
+
+TotGeorgel (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 45
+	Normal Attack: N/A
+	Special Attack: 10
+	Def: 9
+	Special Def: 9
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}

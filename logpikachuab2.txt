@@ -1,0 +1,1340 @@
+Battle Log 1
+========================Aventura========================
+TRAINER: {
+Name: Marian
+Age: 19
+Pokemons:
+	POKEMON: {
+	Name: Pikachu
+	HP: 35
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 2
+	Special Def: 3
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+	Items: [ITEM: {Name='Scut', Def +2, Special Def +2}]
+	POKEMON: {
+	Name: Squirtle
+	HP: 60
+	Normal Attack: N/A
+	Special Attack: 3
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+	Items: [ITEM: {Name='Săbiuță', Attack +3}]
+	POKEMON: {
+	Name: Bulbasaur
+	HP: 42
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 1
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+	Items: None
+}
+TRAINER: {
+Name: Dorel
+Age: 20
+Pokemons:
+	POKEMON: {
+	Name: Charmander
+	HP: 50
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 3
+	Special Def: 2
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+	Items: None
+	POKEMON: {
+	Name: Snorlax
+	HP: 62
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 6
+	Special Def: 4
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 5}
+	Ability 2: {DMG: 0, Stun: NO, Dodge: YES, CD: 5}
+	}
+	Items: None
+	POKEMON: {
+	Name: Vulpix
+	HP: 36
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 2
+	Special Def: 4
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+	Items: None
+}
+==========Duel 1: Pokemon1 vs Pokemon1==========
+========Tip Batalie: Trainer vs Neutrel1========
+Pikachu (Marian) vs Neutrel1
+Pikachu foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Pikachu
+	HP: 35
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Pikachu abilitate 2 / Neutrel1 atac normal
+Pikachu HP: 35 (dodge)  , Abilitate 2 cooldown 5 
+Neutrel1 HP: 6 (stunned)
+
+Pikachu atac special / Neutrel1 nu face nimic
+Pikachu HP: 35  , Abilitate 2 cooldown 4 
+Neutrel1 HP: 3
+
+Pikachu atac special / Neutrel1 atac normal
+Pikachu HP: 35  , Abilitate 2 cooldown 3 
+Neutrel1 HP: 0
+
+Marian (Pikachu) castiga lupta.
+Pikachu primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Pikachu
+	HP: 36
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+Charmander (Dorel) vs Neutrel1
+POKEMON: {
+	Name: Charmander
+	HP: 50
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 3
+	Special Def: 2
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Charmander abilitate 1 / Neutrel1 atac normal
+Charmander HP: 50 , Abilitate 1 cooldown 4  
+Neutrel1 HP: 6 (stunned)
+
+Charmander atac normal / Neutrel1 nu face nimic
+Charmander HP: 50 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 3
+
+Charmander atac normal / Neutrel1 atac normal
+Charmander HP: 50 , Abilitate 1 cooldown 2  
+Neutrel1 HP: 0
+
+Dorel (Charmander) castiga lupta.
+Charmander primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Charmander
+	HP: 51
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 4
+	Special Def: 3
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Pikachu (Marian) vs Charmander (Dorel)
+POKEMON: {
+	Name: Pikachu
+	HP: 36
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Charmander
+	HP: 51
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 4
+	Special Def: 3
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+Pikachu abilitate 2 / Charmander abilitate 2
+Pikachu HP: 36 (dodge)   , Abilitate 2 cooldown 5 
+Charmander HP: 47  (stunned) , Abilitate 2 cooldown 6
+
+Pikachu atac special / Charmander nu face nimic
+Pikachu HP: 36   , Abilitate 2 cooldown 4 
+Charmander HP: 45   , Abilitate 2 cooldown 5
+
+Pikachu abilitate 1 / Charmander abilitate 1
+Pikachu HP: 32  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 3 
+Charmander HP: 39  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4
+
+Pikachu nu face nimic / Charmander atac normal
+Pikachu HP: 30  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Charmander HP: 39  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3
+
+Pikachu atac special / Charmander atac normal
+Pikachu HP: 28  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Charmander HP: 37  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Pikachu atac special / Charmander atac normal
+Pikachu HP: 26  , Abilitate 1 cooldown 1  
+Charmander HP: 35  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Pikachu atac special / Charmander abilitate 2
+Pikachu HP: 19    
+Charmander HP: 33   , Abilitate 2 cooldown 6
+
+Pikachu abilitate 1 / Charmander atac normal
+Pikachu HP: 17  , Abilitate 1 cooldown 4  
+Charmander HP: 27   , Abilitate 2 cooldown 5
+
+Pikachu abilitate 2 / Charmander atac normal
+Pikachu HP: 17 (dodge)  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5 
+Charmander HP: 23  (stunned) , Abilitate 2 cooldown 4
+
+Pikachu atac special / Charmander nu face nimic
+Pikachu HP: 17  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4 
+Charmander HP: 21   , Abilitate 2 cooldown 3
+
+Pikachu atac special / Charmander abilitate 1
+Pikachu HP: 13  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Charmander HP: 19  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2
+
+Pikachu nu face nimic / Charmander atac normal
+Pikachu HP: 11   , Abilitate 2 cooldown 2 
+Charmander HP: 19  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Pikachu atac special / Charmander atac normal
+Pikachu HP: 9   , Abilitate 2 cooldown 1 
+Charmander HP: 17  , Abilitate 1 cooldown 2 
+
+Pikachu atac special / Charmander atac normal
+Pikachu HP: 7    
+Charmander HP: 15  , Abilitate 1 cooldown 1 
+
+Pikachu atac special / Charmander abilitate 2
+Pikachu HP: 0    
+Charmander HP: 13   , Abilitate 2 cooldown 6
+
+Dorel (Charmander) castiga lupta.
+Charmander primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Charmander
+	HP: 52
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 5
+	Special Def: 4
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+==========Duel 2: Pokemon2 vs Pokemon2==========
+========Tip Batalie: Trainer vs Neutrel1========
+Squirtle (Marian) vs Neutrel1
+Squirtle foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Squirtle
+	HP: 60
+	Normal Attack: N/A
+	Special Attack: 3
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle abilitate 2 / Neutrel1 atac normal
+Squirtle HP: 60  , Abilitate 2 cooldown 2 
+Neutrel1 HP: 8 (stunned)
+
+Squirtle atac special / Neutrel1 nu face nimic
+Squirtle HP: 60  , Abilitate 2 cooldown 1 
+Neutrel1 HP: 6
+
+Squirtle abilitate 2 / Neutrel1 atac normal
+Squirtle HP: 60  , Abilitate 2 cooldown 2 
+Neutrel1 HP: 4 (stunned)
+
+Squirtle abilitate 1 / Neutrel1 nu face nimic
+Squirtle HP: 60 , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Neutrel1 HP: 0
+
+Marian (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Snorlax (Dorel) vs Neutrel1
+POKEMON: {
+	Name: Snorlax
+	HP: 62
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 6
+	Special Def: 4
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 5}
+	Ability 2: {DMG: 0, Stun: NO, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Snorlax abilitate 1 / Neutrel1 atac normal
+Snorlax HP: 62 , Abilitate 1 cooldown 5  
+Neutrel1 HP: 6 (stunned)
+
+Snorlax atac normal / Neutrel1 nu face nimic
+Snorlax HP: 62 , Abilitate 1 cooldown 4  
+Neutrel1 HP: 4
+
+Snorlax atac normal / Neutrel1 atac normal
+Snorlax HP: 62 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 2
+
+Snorlax abilitate 2 / Neutrel1 atac normal
+Snorlax HP: 62 (dodge) , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 5 
+Neutrel1 HP: 2
+
+Snorlax atac normal / Neutrel1 atac normal
+Snorlax HP: 62 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 4 
+Neutrel1 HP: 0
+
+Dorel (Snorlax) castiga lupta.
+Snorlax primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Snorlax
+	HP: 63
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 7
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 5}
+	Ability 2: {DMG: 0, Stun: NO, Dodge: YES, CD: 5}
+	}
+========Tip Batalie: Trainer vs Neutrel2========
+Squirtle (Marian) vs Neutrel2
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 16
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 2  
+Neutrel2 HP: 13
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 1  
+Neutrel2 HP: 10
+
+Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP: 61  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 8 (stunned)
+
+Squirtle atac special / Neutrel2 nu face nimic
+Squirtle HP: 61  , Abilitate 2 cooldown 1 
+Neutrel2 HP: 5
+
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 1
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 2  
+Neutrel2 HP: 0
+
+Marian (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 62
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Snorlax (Dorel) vs Neutrel2
+POKEMON: {
+	Name: Snorlax
+	HP: 63
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 7
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 5}
+	Ability 2: {DMG: 0, Stun: NO, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Snorlax abilitate 1 / Neutrel2 atac normal
+Snorlax HP: 63 , Abilitate 1 cooldown 5  
+Neutrel2 HP: 16 (stunned)
+
+Snorlax atac normal / Neutrel2 nu face nimic
+Snorlax HP: 63 , Abilitate 1 cooldown 4  
+Neutrel2 HP: 13
+
+Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP: 63 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 10
+
+Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP: 63 , Abilitate 1 cooldown 2  
+Neutrel2 HP: 7
+
+Snorlax atac normal / Neutrel2 atac normal
+Snorlax HP: 63 , Abilitate 1 cooldown 1  
+Neutrel2 HP: 4
+
+Snorlax abilitate 1 / Neutrel2 atac normal
+Snorlax HP: 63 , Abilitate 1 cooldown 5  
+Neutrel2 HP: 0 (stunned)
+
+Dorel (Snorlax) castiga lupta.
+Snorlax primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Snorlax
+	HP: 64
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 8
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 5}
+	Ability 2: {DMG: 0, Stun: NO, Dodge: YES, CD: 5}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Squirtle (Marian) vs Snorlax (Dorel)
+POKEMON: {
+	Name: Squirtle
+	HP: 62
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Snorlax
+	HP: 64
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 8
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 5}
+	Ability 2: {DMG: 0, Stun: NO, Dodge: YES, CD: 5}
+	}
+Squirtle atac special / Snorlax abilitate 1
+Squirtle HP: 58  (stunned)  
+Snorlax HP: 64  , Abilitate 1 cooldown 5 
+
+Squirtle nu face nimic / Snorlax atac normal
+Squirtle HP: 58    
+Snorlax HP: 64  , Abilitate 1 cooldown 4 
+
+Squirtle abilitate 2 / Snorlax abilitate 2
+Squirtle HP: 58   , Abilitate 2 cooldown 2 
+Snorlax HP: 64 (dodge)  (stunned), Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5
+
+Squirtle abilitate 1 / Snorlax nu face nimic
+Squirtle HP: 58  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Snorlax HP: 60  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 58  , Abilitate 1 cooldown 2  
+Snorlax HP: 60  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3
+
+Squirtle atac special / Snorlax abilitate 1
+Squirtle HP: 54  (stunned), Abilitate 1 cooldown 1  
+Snorlax HP: 60  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Snorlax atac normal
+Squirtle HP: 54    
+Snorlax HP: 60  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 54  , Abilitate 1 cooldown 3  
+Snorlax HP: 56  , Abilitate 1 cooldown 3 
+
+Squirtle abilitate 2 / Snorlax abilitate 2
+Squirtle HP: 54  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Snorlax HP: 56 (dodge)  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 5
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 54  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Snorlax HP: 56  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 4
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 54    
+Snorlax HP: 56   , Abilitate 2 cooldown 3
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 54  , Abilitate 1 cooldown 3  
+Snorlax HP: 52   , Abilitate 2 cooldown 2
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 54  , Abilitate 1 cooldown 2  
+Snorlax HP: 52   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Snorlax abilitate 2
+Squirtle HP: 54  , Abilitate 1 cooldown 1  
+Snorlax HP: 52 (dodge)   , Abilitate 2 cooldown 5
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 54    
+Snorlax HP: 52   , Abilitate 2 cooldown 4
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 54   , Abilitate 2 cooldown 2 
+Snorlax HP: 50  (stunned) , Abilitate 2 cooldown 3
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 54   , Abilitate 2 cooldown 1 
+Snorlax HP: 50   , Abilitate 2 cooldown 2
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 54    
+Snorlax HP: 50   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Snorlax abilitate 2
+Squirtle HP: 54    
+Snorlax HP: 50 (dodge)   , Abilitate 2 cooldown 5
+
+Squirtle abilitate 1 / Snorlax abilitate 1
+Squirtle HP: 50  (stunned), Abilitate 1 cooldown 3  
+Snorlax HP: 46  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 4
+
+Squirtle nu face nimic / Snorlax atac normal
+Squirtle HP: 50  , Abilitate 1 cooldown 2  
+Snorlax HP: 46  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 3
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 50  , Abilitate 1 cooldown 1  
+Snorlax HP: 46  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 50    
+Snorlax HP: 46  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1
+
+Squirtle abilitate 2 / Snorlax abilitate 2
+Squirtle HP: 50   , Abilitate 2 cooldown 2 
+Snorlax HP: 46 (dodge)  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 5
+
+Squirtle abilitate 1 / Snorlax nu face nimic
+Squirtle HP: 50  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Snorlax HP: 42   , Abilitate 2 cooldown 4
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 50  , Abilitate 1 cooldown 2  
+Snorlax HP: 42   , Abilitate 2 cooldown 3
+
+Squirtle abilitate 2 / Snorlax abilitate 1
+Squirtle HP: 46  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Snorlax HP: 40  (stunned), Abilitate 1 cooldown 5 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Snorlax nu face nimic
+Squirtle HP: 46   , Abilitate 2 cooldown 1 
+Snorlax HP: 40  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1
+
+Squirtle abilitate 1 / Snorlax abilitate 2
+Squirtle HP: 46  , Abilitate 1 cooldown 3  
+Snorlax HP: 40 (dodge)  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 46  , Abilitate 1 cooldown 2  
+Snorlax HP: 40  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 46  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Snorlax HP: 38  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3
+
+Squirtle abilitate 1 / Snorlax nu face nimic
+Squirtle HP: 46  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Snorlax HP: 34   , Abilitate 2 cooldown 2
+
+Squirtle atac special / Snorlax abilitate 1
+Squirtle HP: 42  (stunned), Abilitate 1 cooldown 2  
+Snorlax HP: 34  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 1
+
+Squirtle nu face nimic / Snorlax abilitate 2
+Squirtle HP: 42  , Abilitate 1 cooldown 1  
+Snorlax HP: 34 (dodge)  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 5
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 42   , Abilitate 2 cooldown 2 
+Snorlax HP: 32  (stunned), Abilitate 1 cooldown 3 , Abilitate 2 cooldown 4
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 42   , Abilitate 2 cooldown 1 
+Snorlax HP: 32  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 42  , Abilitate 1 cooldown 3  
+Snorlax HP: 28  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Squirtle abilitate 2 / Snorlax abilitate 1
+Squirtle HP: 38  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Snorlax HP: 26  (stunned), Abilitate 1 cooldown 5 , Abilitate 2 cooldown 1
+
+Squirtle nu face nimic / Snorlax nu face nimic
+Squirtle HP: 38  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Snorlax HP: 26  , Abilitate 1 cooldown 4 
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 38   , Abilitate 2 cooldown 2 
+Snorlax HP: 24  (stunned), Abilitate 1 cooldown 3 
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 38   , Abilitate 2 cooldown 1 
+Snorlax HP: 24  , Abilitate 1 cooldown 2 
+
+Squirtle atac special / Snorlax abilitate 2
+Squirtle HP: 38    
+Snorlax HP: 24 (dodge)  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 5
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 38   , Abilitate 2 cooldown 2 
+Snorlax HP: 22  (stunned) , Abilitate 2 cooldown 4
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 38   , Abilitate 2 cooldown 1 
+Snorlax HP: 22   , Abilitate 2 cooldown 3
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 38    
+Snorlax HP: 22   , Abilitate 2 cooldown 2
+
+Squirtle atac special / Snorlax abilitate 1
+Squirtle HP: 34  (stunned)  
+Snorlax HP: 22  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 1
+
+Squirtle nu face nimic / Snorlax atac normal
+Squirtle HP: 34    
+Snorlax HP: 22  , Abilitate 1 cooldown 4 
+
+Squirtle atac special / Snorlax abilitate 2
+Squirtle HP: 34    
+Snorlax HP: 22 (dodge)  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 34   , Abilitate 2 cooldown 2 
+Snorlax HP: 20  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 34   , Abilitate 2 cooldown 1 
+Snorlax HP: 20  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 34  , Abilitate 1 cooldown 3  
+Snorlax HP: 16   , Abilitate 2 cooldown 2
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 34  , Abilitate 1 cooldown 2  
+Snorlax HP: 16   , Abilitate 2 cooldown 1
+
+Squirtle atac special / Snorlax abilitate 2
+Squirtle HP: 34  , Abilitate 1 cooldown 1  
+Snorlax HP: 16 (dodge)   , Abilitate 2 cooldown 5
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 34   , Abilitate 2 cooldown 2 
+Snorlax HP: 14  (stunned) , Abilitate 2 cooldown 4
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 34   , Abilitate 2 cooldown 1 
+Snorlax HP: 14   , Abilitate 2 cooldown 3
+
+Squirtle atac special / Snorlax abilitate 1
+Squirtle HP: 30  (stunned)  
+Snorlax HP: 14  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Snorlax atac normal
+Squirtle HP: 30    
+Snorlax HP: 14  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 30   , Abilitate 2 cooldown 2 
+Snorlax HP: 12  (stunned), Abilitate 1 cooldown 3 
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 30   , Abilitate 2 cooldown 1 
+Snorlax HP: 12  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 30  , Abilitate 1 cooldown 3  
+Snorlax HP: 8  , Abilitate 1 cooldown 1 
+
+Squirtle atac special / Snorlax abilitate 1
+Squirtle HP: 26  (stunned), Abilitate 1 cooldown 2  
+Snorlax HP: 8  , Abilitate 1 cooldown 5 
+
+Squirtle nu face nimic / Snorlax atac normal
+Squirtle HP: 26  , Abilitate 1 cooldown 1  
+Snorlax HP: 8  , Abilitate 1 cooldown 4 
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 26  , Abilitate 1 cooldown 3  
+Snorlax HP: 4  , Abilitate 1 cooldown 3 
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 26  , Abilitate 1 cooldown 2  
+Snorlax HP: 4  , Abilitate 1 cooldown 2 
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 26  , Abilitate 1 cooldown 1  
+Snorlax HP: 4  , Abilitate 1 cooldown 1 
+
+Squirtle atac special / Snorlax abilitate 1
+Squirtle HP: 22  (stunned)  
+Snorlax HP: 4  , Abilitate 1 cooldown 5 
+
+Squirtle nu face nimic / Snorlax atac normal
+Squirtle HP: 22    
+Snorlax HP: 4  , Abilitate 1 cooldown 4 
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 22   , Abilitate 2 cooldown 2 
+Snorlax HP: 2  (stunned), Abilitate 1 cooldown 3 
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 22   , Abilitate 2 cooldown 1 
+Snorlax HP: 2  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 22   , Abilitate 2 cooldown 2 
+Snorlax HP: 0  (stunned), Abilitate 1 cooldown 1 
+
+Marian (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 63
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 8
+	Special Def: 8
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+==========Duel 3: Pokemon3 vs Pokemon3==========
+========Tip Batalie: Trainer vs Neutrel1========
+Bulbasaur (Marian) vs Neutrel1
+POKEMON: {
+	Name: Bulbasaur
+	HP: 42
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 1
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Bulbasaur atac special / Neutrel1 atac normal
+Bulbasaur HP: 42   
+Neutrel1 HP: 6
+
+Bulbasaur abilitate 1 / Neutrel1 atac normal
+Bulbasaur HP: 42 , Abilitate 1 cooldown 4  
+Neutrel1 HP: 0
+
+Marian (Bulbasaur) castiga lupta.
+Bulbasaur primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Bulbasaur
+	HP: 43
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 4
+	Special Def: 2
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+Vulpix (Dorel) vs Neutrel1
+POKEMON: {
+	Name: Vulpix
+	HP: 36
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 2
+	Special Def: 4
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Vulpix abilitate 1 / Neutrel1 atac normal
+Vulpix HP: 35 , Abilitate 1 cooldown 6  
+Neutrel1 HP: 2 (stunned)
+
+Vulpix abilitate 2 / Neutrel1 nu face nimic
+Vulpix HP: 35 (dodge) , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 7 
+Neutrel1 HP: 0
+
+Dorel (Vulpix) castiga lupta.
+Vulpix primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Vulpix
+	HP: 37
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 3
+	Special Def: 5
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+========Tip Batalie: Trainer vs Neutrel2========
+Bulbasaur (Marian) vs Neutrel2
+POKEMON: {
+	Name: Bulbasaur
+	HP: 43
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 4
+	Special Def: 2
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Bulbasaur abilitate 1 / Neutrel2 atac normal
+Bulbasaur HP: 43 , Abilitate 1 cooldown 4  
+Neutrel2 HP: 14
+
+Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP: 43 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 9
+
+Bulbasaur abilitate 2 / Neutrel2 atac normal
+Bulbasaur HP: 43 , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Neutrel2 HP: 4
+
+Bulbasaur atac special / Neutrel2 atac normal
+Bulbasaur HP: 43 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Neutrel2 HP: 0
+
+Marian (Bulbasaur) castiga lupta.
+Bulbasaur primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Bulbasaur
+	HP: 44
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 5
+	Special Def: 3
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+Vulpix (Dorel) vs Neutrel2
+POKEMON: {
+	Name: Vulpix
+	HP: 37
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 3
+	Special Def: 5
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Vulpix abilitate 2 / Neutrel2 atac normal
+Vulpix HP: 37 (dodge)  , Abilitate 2 cooldown 7 
+Neutrel2 HP: 18
+
+Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP: 36 , Abilitate 1 cooldown 6 , Abilitate 2 cooldown 6 
+Neutrel2 HP: 10 (stunned)
+
+Vulpix atac normal / Neutrel2 nu face nimic
+Vulpix HP: 36 , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 5 
+Neutrel2 HP: 5
+
+Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP: 35 , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4 
+Neutrel2 HP: 0
+
+Dorel (Vulpix) castiga lupta.
+Vulpix primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Vulpix
+	HP: 38
+	Normal Attack: 7
+	Special Attack: N/A
+	Def: 4
+	Special Def: 6
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Bulbasaur (Marian) vs Vulpix (Dorel)
+POKEMON: {
+	Name: Bulbasaur
+	HP: 44
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 5
+	Special Def: 3
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Vulpix
+	HP: 38
+	Normal Attack: 7
+	Special Attack: N/A
+	Def: 4
+	Special Def: 6
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+Bulbasaur atac special / Vulpix atac normal
+Bulbasaur HP: 42    
+Vulpix HP: 37   
+
+Bulbasaur abilitate 1 / Vulpix abilitate 2
+Bulbasaur HP: 40  , Abilitate 1 cooldown 4  
+Vulpix HP: 37 (dodge)   , Abilitate 2 cooldown 7
+
+Bulbasaur atac special / Vulpix abilitate 1
+Bulbasaur HP: 32  (stunned), Abilitate 1 cooldown 3  
+Vulpix HP: 36  , Abilitate 1 cooldown 6 , Abilitate 2 cooldown 6
+
+Bulbasaur nu face nimic / Vulpix atac normal
+Bulbasaur HP: 30  , Abilitate 1 cooldown 2  
+Vulpix HP: 36  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 5
+
+Bulbasaur atac special / Vulpix atac normal
+Bulbasaur HP: 28  , Abilitate 1 cooldown 1  
+Vulpix HP: 35  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4
+
+Bulbasaur abilitate 1 / Vulpix atac normal
+Bulbasaur HP: 26  , Abilitate 1 cooldown 4  
+Vulpix HP: 29  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3
+
+Bulbasaur abilitate 2 / Vulpix atac normal
+Bulbasaur HP: 24  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3 
+Vulpix HP: 24  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Bulbasaur atac special / Vulpix atac normal
+Bulbasaur HP: 22  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Vulpix HP: 23  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Bulbasaur atac special / Vulpix abilitate 1
+Bulbasaur HP: 14  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Vulpix HP: 22  , Abilitate 1 cooldown 6 
+
+Bulbasaur nu face nimic / Vulpix atac normal
+Bulbasaur HP: 12    
+Vulpix HP: 22  , Abilitate 1 cooldown 5 
+
+Bulbasaur abilitate 2 / Vulpix atac normal
+Bulbasaur HP: 10   , Abilitate 2 cooldown 3 
+Vulpix HP: 17  , Abilitate 1 cooldown 4 
+
+Bulbasaur atac special / Vulpix atac normal
+Bulbasaur HP: 8   , Abilitate 2 cooldown 2 
+Vulpix HP: 16  , Abilitate 1 cooldown 3 
+
+Bulbasaur atac special / Vulpix atac normal
+Bulbasaur HP: 6   , Abilitate 2 cooldown 1 
+Vulpix HP: 15  , Abilitate 1 cooldown 2 
+
+Bulbasaur abilitate 2 / Vulpix abilitate 2
+Bulbasaur HP: 4   , Abilitate 2 cooldown 3 
+Vulpix HP: 15 (dodge)  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 7
+
+Bulbasaur abilitate 1 / Vulpix atac normal
+Bulbasaur HP: 2  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2 
+Vulpix HP: 9   , Abilitate 2 cooldown 6
+
+Bulbasaur atac special / Vulpix atac normal
+Bulbasaur HP: 0  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Vulpix HP: 8   , Abilitate 2 cooldown 5
+
+Dorel (Vulpix) castiga lupta.
+Vulpix primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Vulpix
+	HP: 39
+	Normal Attack: 8
+	Special Attack: N/A
+	Def: 5
+	Special Def: 7
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+==========Duel 4: Cel mai bun vs cel mai bun==========
+========Tip Batalie: Trainer vs Trainer========
+Squirtle (Marian) vs Snorlax (Dorel)
+Squirtle foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Squirtle
+	HP: 63
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 8
+	Special Def: 8
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Snorlax
+	HP: 64
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 8
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 5}
+	Ability 2: {DMG: 0, Stun: NO, Dodge: YES, CD: 5}
+	}
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 63   , Abilitate 2 cooldown 2 
+Snorlax HP: 62  (stunned) 
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 63   , Abilitate 2 cooldown 1 
+Snorlax HP: 62   
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 63    
+Snorlax HP: 62   
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 63    
+Snorlax HP: 62   
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 63  , Abilitate 1 cooldown 3  
+Snorlax HP: 58   
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 63  , Abilitate 1 cooldown 2  
+Snorlax HP: 58   
+
+Squirtle atac special / Snorlax abilitate 2
+Squirtle HP: 63  , Abilitate 1 cooldown 1  
+Snorlax HP: 58 (dodge)   , Abilitate 2 cooldown 5
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 63   , Abilitate 2 cooldown 2 
+Snorlax HP: 56  (stunned) , Abilitate 2 cooldown 4
+
+Squirtle abilitate 1 / Snorlax nu face nimic
+Squirtle HP: 63  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Snorlax HP: 52   , Abilitate 2 cooldown 3
+
+Squirtle atac special / Snorlax abilitate 1
+Squirtle HP: 59  (stunned), Abilitate 1 cooldown 2  
+Snorlax HP: 52  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Snorlax atac normal
+Squirtle HP: 59  , Abilitate 1 cooldown 1  
+Snorlax HP: 52  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1
+
+Squirtle abilitate 1 / Snorlax abilitate 2
+Squirtle HP: 59  , Abilitate 1 cooldown 3  
+Snorlax HP: 52 (dodge)  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 59  , Abilitate 1 cooldown 2  
+Snorlax HP: 52  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 59  , Abilitate 1 cooldown 1  
+Snorlax HP: 52  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3
+
+Squirtle atac special / Snorlax abilitate 1
+Squirtle HP: 55  (stunned)  
+Snorlax HP: 52  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 2
+
+Squirtle nu face nimic / Snorlax atac normal
+Squirtle HP: 55    
+Snorlax HP: 52  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 55  , Abilitate 1 cooldown 3  
+Snorlax HP: 48  , Abilitate 1 cooldown 3 
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 55  , Abilitate 1 cooldown 2  
+Snorlax HP: 48  , Abilitate 1 cooldown 2 
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 55  , Abilitate 1 cooldown 1  
+Snorlax HP: 48  , Abilitate 1 cooldown 1 
+
+Squirtle abilitate 1 / Snorlax abilitate 1
+Squirtle HP: 51  (stunned), Abilitate 1 cooldown 3  
+Snorlax HP: 44  , Abilitate 1 cooldown 5 
+
+Squirtle nu face nimic / Snorlax abilitate 2
+Squirtle HP: 51  , Abilitate 1 cooldown 2  
+Snorlax HP: 44 (dodge)  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 5
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 51  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Snorlax HP: 42  (stunned), Abilitate 1 cooldown 3 , Abilitate 2 cooldown 4
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 51   , Abilitate 2 cooldown 1 
+Snorlax HP: 42  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 51    
+Snorlax HP: 42  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 51   , Abilitate 2 cooldown 2 
+Snorlax HP: 40  (stunned) , Abilitate 2 cooldown 1
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 51   , Abilitate 2 cooldown 1 
+Snorlax HP: 40   
+
+Squirtle abilitate 2 / Snorlax abilitate 1
+Squirtle HP: 47  (stunned) , Abilitate 2 cooldown 2 
+Snorlax HP: 38  (stunned), Abilitate 1 cooldown 5 
+
+Squirtle nu face nimic / Snorlax nu face nimic
+Squirtle HP: 47   , Abilitate 2 cooldown 1 
+Snorlax HP: 38  , Abilitate 1 cooldown 4 
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 47  , Abilitate 1 cooldown 3  
+Snorlax HP: 34  , Abilitate 1 cooldown 3 
+
+Squirtle abilitate 2 / Snorlax abilitate 2
+Squirtle HP: 47  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Snorlax HP: 34 (dodge)  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 5
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 47  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Snorlax HP: 34  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 4
+
+Squirtle abilitate 1 / Snorlax abilitate 1
+Squirtle HP: 43  (stunned), Abilitate 1 cooldown 3  
+Snorlax HP: 30  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 3
+
+Squirtle nu face nimic / Snorlax atac normal
+Squirtle HP: 43  , Abilitate 1 cooldown 2  
+Snorlax HP: 30  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 43  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Snorlax HP: 28  (stunned), Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 43   , Abilitate 2 cooldown 1 
+Snorlax HP: 28  , Abilitate 1 cooldown 2 
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 43   , Abilitate 2 cooldown 2 
+Snorlax HP: 26  (stunned), Abilitate 1 cooldown 1 
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 43   , Abilitate 2 cooldown 1 
+Snorlax HP: 26   
+
+Squirtle abilitate 1 / Snorlax abilitate 2
+Squirtle HP: 43  , Abilitate 1 cooldown 3  
+Snorlax HP: 26 (dodge)   , Abilitate 2 cooldown 5
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 43  , Abilitate 1 cooldown 2  
+Snorlax HP: 26   , Abilitate 2 cooldown 4
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 43  , Abilitate 1 cooldown 1  
+Snorlax HP: 26   , Abilitate 2 cooldown 3
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 43  , Abilitate 1 cooldown 3  
+Snorlax HP: 22   , Abilitate 2 cooldown 2
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 43  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Snorlax HP: 20  (stunned) , Abilitate 2 cooldown 1
+
+Squirtle atac special / Snorlax nu face nimic
+Squirtle HP: 43  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Snorlax HP: 20   
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 43   , Abilitate 2 cooldown 2 
+Snorlax HP: 18  (stunned) 
+
+Squirtle abilitate 1 / Snorlax nu face nimic
+Squirtle HP: 43  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Snorlax HP: 14   
+
+Squirtle atac special / Snorlax abilitate 1
+Squirtle HP: 39  (stunned), Abilitate 1 cooldown 2  
+Snorlax HP: 14  , Abilitate 1 cooldown 5 
+
+Squirtle nu face nimic / Snorlax abilitate 2
+Squirtle HP: 39  , Abilitate 1 cooldown 1  
+Snorlax HP: 14 (dodge)  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 5
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 39   , Abilitate 2 cooldown 2 
+Snorlax HP: 12  (stunned), Abilitate 1 cooldown 3 , Abilitate 2 cooldown 4
+
+Squirtle abilitate 1 / Snorlax nu face nimic
+Squirtle HP: 39  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Snorlax HP: 8  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3
+
+Squirtle atac special / Snorlax atac normal
+Squirtle HP: 39  , Abilitate 1 cooldown 2  
+Snorlax HP: 8  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Squirtle abilitate 2 / Snorlax abilitate 1
+Squirtle HP: 35  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Snorlax HP: 6  (stunned), Abilitate 1 cooldown 5 , Abilitate 2 cooldown 1
+
+Squirtle nu face nimic / Snorlax nu face nimic
+Squirtle HP: 35   , Abilitate 2 cooldown 1 
+Snorlax HP: 6  , Abilitate 1 cooldown 4 
+
+Squirtle abilitate 1 / Snorlax atac normal
+Squirtle HP: 35  , Abilitate 1 cooldown 3  
+Snorlax HP: 2  , Abilitate 1 cooldown 3 
+
+Squirtle atac special / Snorlax abilitate 2
+Squirtle HP: 35  , Abilitate 1 cooldown 2  
+Snorlax HP: 2 (dodge)  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 5
+
+Squirtle abilitate 2 / Snorlax atac normal
+Squirtle HP: 35  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Snorlax HP: 0  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 4
+
+Marian (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 64
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 9
+	Special Def: 9
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}

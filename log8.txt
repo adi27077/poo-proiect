@@ -1,0 +1,1163 @@
+Battle Log 8
+========================Aventura========================
+TRAINER: {
+Name: Laurentiu
+Age: 29
+Pokemons:
+	POKEMON: {
+	Name: Eevee
+	HP: 39
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+	Items: [ITEM: {Name='Scut', Def +2, Special Def +2}, ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}]
+	POKEMON: {
+	Name: Pikachu
+	HP: 35
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 2
+	Special Def: 3
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+	Items: [ITEM: {Name='Scut', Def +2, Special Def +2}, ITEM: {Name='Vestă', HP +10}, ITEM: {Name='Pelerină', Special Def +3}]
+	POKEMON: {
+	Name: Jigglypuff
+	HP: 34
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 2
+	Special Def: 3
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+	Items: [ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Vestă', HP +10}, ITEM: {Name='Pelerină', Special Def +3}]
+}
+TRAINER: {
+Name: Dragos
+Age: 30
+Pokemons:
+	POKEMON: {
+	Name: Charmander
+	HP: 50
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 3
+	Special Def: 2
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+	Items: [ITEM: {Name='Scut', Def +2, Special Def +2}, ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Vestă', HP +10}]
+	POKEMON: {
+	Name: Bulbasaur
+	HP: 42
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 1
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+	Items: [ITEM: {Name='Scut', Def +2, Special Def +2}, ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}, ITEM: {Name='Săbiuță', Attack +3}]
+	POKEMON: {
+	Name: Squirtle
+	HP: 60
+	Normal Attack: N/A
+	Special Attack: 3
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+	Items: [ITEM: {Name='Săbiuță', Attack +3}, ITEM: {Name='Vestă', HP +10}, ITEM: {Name='Scut', Def +2, Special Def +2}]
+}
+==========Duel 1: Pokemon1 vs Pokemon1==========
+========Tip Batalie: Trainer vs Neutrel2========
+Eevee (Laurentiu) vs Neutrel2
+Eevee foloseste ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}
+POKEMON: {
+	Name: Eevee
+	HP: 41
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP: 40  , Abilitate 2 cooldown 3 
+Neutrel2 HP: 17 (stunned)
+
+Eevee abilitate 1 / Neutrel2 nu face nimic
+Eevee HP: 40 , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Neutrel2 HP: 12
+
+Eevee atac special / Neutrel2 atac normal
+Eevee HP: 39 , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Neutrel2 HP: 7
+
+Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP: 38 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Neutrel2 HP: 4 (stunned)
+
+Eevee atac special / Neutrel2 nu face nimic
+Eevee HP: 38  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 0
+
+Laurentiu (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 40
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 4
+	Special Def: 4
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+Charmander (Dragos) vs Neutrel2
+Charmander foloseste ITEM: {Name='Vestă', HP +10}
+POKEMON: {
+	Name: Charmander
+	HP: 60
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 3
+	Special Def: 2
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Charmander abilitate 1 / Neutrel2 atac normal
+Charmander HP: 49 , Abilitate 1 cooldown 4  
+Neutrel2 HP: 16 (stunned)
+
+Charmander atac normal / Neutrel2 nu face nimic
+Charmander HP: 49 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 13
+
+Charmander atac normal / Neutrel2 atac normal
+Charmander HP: 48 , Abilitate 1 cooldown 2  
+Neutrel2 HP: 10
+
+Charmander atac normal / Neutrel2 atac normal
+Charmander HP: 47 , Abilitate 1 cooldown 1  
+Neutrel2 HP: 7
+
+Charmander atac normal / Neutrel2 atac normal
+Charmander HP: 46   
+Neutrel2 HP: 4
+
+Charmander abilitate 2 / Neutrel2 atac normal
+Charmander HP: 45  , Abilitate 2 cooldown 6 
+Neutrel2 HP: 0
+
+Dragos (Charmander) castiga lupta.
+Charmander primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Charmander
+	HP: 51
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 4
+	Special Def: 3
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+========Tip Batalie: Trainer vs Neutrel1========
+Eevee (Laurentiu) vs Neutrel1
+Eevee foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Eevee
+	HP: 40
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 4
+	Special Def: 4
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee abilitate 1 / Neutrel1 atac normal
+Eevee HP: 40 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 5
+
+Eevee abilitate 2 / Neutrel1 atac normal
+Eevee HP: 40 , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Neutrel1 HP: 2 (stunned)
+
+Eevee atac special / Neutrel1 nu face nimic
+Eevee HP: 40 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Neutrel1 HP: 0
+
+Laurentiu (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 41
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+Charmander (Dragos) vs Neutrel1
+Charmander foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Charmander
+	HP: 51
+	Normal Attack: 8
+	Special Attack: N/A
+	Def: 4
+	Special Def: 3
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Charmander abilitate 1 / Neutrel1 atac normal
+Charmander HP: 51 , Abilitate 1 cooldown 4  
+Neutrel1 HP: 6 (stunned)
+
+Charmander atac normal / Neutrel1 nu face nimic
+Charmander HP: 51 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 0
+
+Dragos (Charmander) castiga lupta.
+Charmander primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Charmander
+	HP: 52
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 5
+	Special Def: 4
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Eevee (Laurentiu) vs Charmander (Dragos)
+Eevee foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+Charmander foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Eevee
+	HP: 41
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Charmander
+	HP: 52
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 7
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+Eevee atac special / Charmander atac normal
+Eevee HP: 41    
+Charmander HP: 52   
+
+Eevee abilitate 2 / Charmander abilitate 2
+Eevee HP: 34   , Abilitate 2 cooldown 3 
+Charmander HP: 49  (stunned) , Abilitate 2 cooldown 6
+
+Eevee abilitate 1 / Charmander nu face nimic
+Eevee HP: 34  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Charmander HP: 44   , Abilitate 2 cooldown 5
+
+Eevee atac special / Charmander atac normal
+Eevee HP: 34  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Charmander HP: 44   , Abilitate 2 cooldown 4
+
+Eevee atac special / Charmander atac normal
+Eevee HP: 34  , Abilitate 1 cooldown 1  
+Charmander HP: 44   , Abilitate 2 cooldown 3
+
+Eevee abilitate 1 / Charmander abilitate 1
+Eevee HP: 30  (stunned), Abilitate 1 cooldown 3  
+Charmander HP: 39  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2
+
+Eevee nu face nimic / Charmander atac normal
+Eevee HP: 30  , Abilitate 1 cooldown 2  
+Charmander HP: 39  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Eevee atac special / Charmander abilitate 2
+Eevee HP: 23  , Abilitate 1 cooldown 1  
+Charmander HP: 39  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 6
+
+Eevee abilitate 2 / Charmander atac normal
+Eevee HP: 23   , Abilitate 2 cooldown 3 
+Charmander HP: 36  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 5
+
+Eevee atac special / Charmander nu face nimic
+Eevee HP: 23   , Abilitate 2 cooldown 2 
+Charmander HP: 36   , Abilitate 2 cooldown 4
+
+Eevee atac special / Charmander atac normal
+Eevee HP: 23   , Abilitate 2 cooldown 1 
+Charmander HP: 36   , Abilitate 2 cooldown 3
+
+Eevee abilitate 2 / Charmander atac normal
+Eevee HP: 23   , Abilitate 2 cooldown 3 
+Charmander HP: 33  (stunned) , Abilitate 2 cooldown 2
+
+Eevee atac special / Charmander nu face nimic
+Eevee HP: 23   , Abilitate 2 cooldown 2 
+Charmander HP: 33   , Abilitate 2 cooldown 1
+
+Eevee atac special / Charmander atac normal
+Eevee HP: 23   , Abilitate 2 cooldown 1 
+Charmander HP: 33   
+
+Eevee atac special / Charmander abilitate 2
+Eevee HP: 16    
+Charmander HP: 33   , Abilitate 2 cooldown 6
+
+Eevee abilitate 1 / Charmander atac normal
+Eevee HP: 16  , Abilitate 1 cooldown 3  
+Charmander HP: 28   , Abilitate 2 cooldown 5
+
+Eevee abilitate 2 / Charmander abilitate 1
+Eevee HP: 12  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Charmander HP: 25  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4
+
+Eevee nu face nimic / Charmander nu face nimic
+Eevee HP: 12  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Charmander HP: 25  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3
+
+Eevee atac special / Charmander atac normal
+Eevee HP: 12   , Abilitate 2 cooldown 1 
+Charmander HP: 25  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Eevee abilitate 1 / Charmander atac normal
+Eevee HP: 12  , Abilitate 1 cooldown 3  
+Charmander HP: 20  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Eevee atac special / Charmander abilitate 1
+Eevee HP: 8  (stunned), Abilitate 1 cooldown 2  
+Charmander HP: 20  , Abilitate 1 cooldown 4 
+
+Eevee nu face nimic / Charmander atac normal
+Eevee HP: 8  , Abilitate 1 cooldown 1  
+Charmander HP: 20  , Abilitate 1 cooldown 3 
+
+Eevee atac special / Charmander atac normal
+Eevee HP: 8    
+Charmander HP: 20  , Abilitate 1 cooldown 2 
+
+Eevee atac special / Charmander atac normal
+Eevee HP: 8    
+Charmander HP: 20  , Abilitate 1 cooldown 1 
+
+Eevee abilitate 1 / Charmander atac normal
+Eevee HP: 8  , Abilitate 1 cooldown 3  
+Charmander HP: 15   
+
+Eevee abilitate 2 / Charmander abilitate 2
+Eevee HP: 1  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Charmander HP: 12  (stunned) , Abilitate 2 cooldown 6
+
+Eevee atac special / Charmander nu face nimic
+Eevee HP: 1  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Charmander HP: 12   , Abilitate 2 cooldown 5
+
+Eevee abilitate 1 / Charmander atac normal
+Eevee HP: 1  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Charmander HP: 7   , Abilitate 2 cooldown 4
+
+Eevee atac special / Charmander atac normal
+Eevee HP: 1  , Abilitate 1 cooldown 2  
+Charmander HP: 7   , Abilitate 2 cooldown 3
+
+Eevee abilitate 2 / Charmander abilitate 1
+Eevee HP: 0  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Charmander HP: 4  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2
+
+Dragos (Charmander) castiga lupta.
+Charmander primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Charmander
+	HP: 53
+	Normal Attack: 7
+	Special Attack: N/A
+	Def: 6
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+==========Duel 2: Pokemon2 vs Pokemon2==========
+========Tip Batalie: Trainer vs Neutrel1========
+Pikachu (Laurentiu) vs Neutrel1
+Pikachu foloseste ITEM: {Name='Pelerină', Special Def +3}
+POKEMON: {
+	Name: Pikachu
+	HP: 35
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 2
+	Special Def: 6
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Pikachu atac special / Neutrel1 atac normal
+Pikachu HP: 34   
+Neutrel1 HP: 7
+
+Pikachu atac special / Neutrel1 atac normal
+Pikachu HP: 33   
+Neutrel1 HP: 4
+
+Pikachu atac special / Neutrel1 atac normal
+Pikachu HP: 32   
+Neutrel1 HP: 1
+
+Pikachu abilitate 2 / Neutrel1 atac normal
+Pikachu HP: 32 (dodge)  , Abilitate 2 cooldown 5 
+Neutrel1 HP: 0 (stunned)
+
+Laurentiu (Pikachu) castiga lupta.
+Pikachu primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Pikachu
+	HP: 36
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+Bulbasaur (Dragos) vs Neutrel1
+Bulbasaur foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Bulbasaur
+	HP: 42
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 1
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Bulbasaur abilitate 1 / Neutrel1 atac normal
+Bulbasaur HP: 42 , Abilitate 1 cooldown 4  
+Neutrel1 HP: 4
+
+Bulbasaur atac special / Neutrel1 atac normal
+Bulbasaur HP: 42 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 0
+
+Dragos (Bulbasaur) castiga lupta.
+Bulbasaur primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Bulbasaur
+	HP: 43
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 4
+	Special Def: 2
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Pikachu (Laurentiu) vs Bulbasaur (Dragos)
+Pikachu foloseste ITEM: {Name='Vestă', HP +10}
+Bulbasaur foloseste ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}
+POKEMON: {
+	Name: Pikachu
+	HP: 46
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Bulbasaur
+	HP: 45
+	Normal Attack: N/A
+	Special Attack: 8
+	Def: 4
+	Special Def: 2
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	}
+Pikachu abilitate 2 / Bulbasaur abilitate 2
+Pikachu HP: 46 (dodge)   , Abilitate 2 cooldown 5 
+Bulbasaur HP: 41  (stunned) , Abilitate 2 cooldown 3
+
+Pikachu atac special / Bulbasaur nu face nimic
+Pikachu HP: 46   , Abilitate 2 cooldown 4 
+Bulbasaur HP: 38   , Abilitate 2 cooldown 2
+
+Pikachu atac special / Bulbasaur atac special
+Pikachu HP: 42   , Abilitate 2 cooldown 3 
+Bulbasaur HP: 35   , Abilitate 2 cooldown 1
+
+Pikachu abilitate 1 / Bulbasaur abilitate 1
+Pikachu HP: 36  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2 
+Bulbasaur HP: 29  , Abilitate 1 cooldown 4 
+
+Pikachu atac special / Bulbasaur atac special
+Pikachu HP: 32  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Bulbasaur HP: 26  , Abilitate 1 cooldown 3 
+
+Pikachu atac special / Bulbasaur abilitate 2
+Pikachu HP: 27  , Abilitate 1 cooldown 2  
+Bulbasaur HP: 23  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3
+
+Pikachu abilitate 2 / Bulbasaur atac special
+Pikachu HP: 27 (dodge)  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 5 
+Bulbasaur HP: 19  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Pikachu abilitate 1 / Bulbasaur nu face nimic
+Pikachu HP: 27  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4 
+Bulbasaur HP: 13   , Abilitate 2 cooldown 1
+
+Pikachu atac special / Bulbasaur abilitate 1
+Pikachu HP: 21  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3 
+Bulbasaur HP: 10  , Abilitate 1 cooldown 4 
+
+Pikachu atac special / Bulbasaur abilitate 2
+Pikachu HP: 16  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Bulbasaur HP: 7  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3
+
+Pikachu atac special / Bulbasaur atac special
+Pikachu HP: 12  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Bulbasaur HP: 4  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Pikachu abilitate 1 / Bulbasaur atac special
+Pikachu HP: 8  , Abilitate 1 cooldown 4  
+Bulbasaur HP: 0  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Laurentiu (Pikachu) castiga lupta.
+Pikachu primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Pikachu
+	HP: 37
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+==========Duel 3: Pokemon3 vs Pokemon3==========
+========Tip Batalie: Trainer vs Neutrel2========
+Jigglypuff (Laurentiu) vs Neutrel2
+Jigglypuff foloseste ITEM: {Name='Pelerină', Special Def +3}
+POKEMON: {
+	Name: Jigglypuff
+	HP: 34
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 2
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Jigglypuff abilitate 2 / Neutrel2 atac normal
+Jigglypuff HP: 32  , Abilitate 2 cooldown 4 
+Neutrel2 HP: 17 (stunned)
+
+Jigglypuff atac normal / Neutrel2 nu face nimic
+Jigglypuff HP: 32  , Abilitate 2 cooldown 3 
+Neutrel2 HP: 14
+
+Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP: 30  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 11
+
+Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP: 28  , Abilitate 2 cooldown 1 
+Neutrel2 HP: 8
+
+Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP: 26   
+Neutrel2 HP: 5
+
+Jigglypuff abilitate 1 / Neutrel2 atac normal
+Jigglypuff HP: 24 , Abilitate 1 cooldown 4  
+Neutrel2 HP: 1 (stunned)
+
+Jigglypuff atac normal / Neutrel2 nu face nimic
+Jigglypuff HP: 24 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 0
+
+Laurentiu (Jigglypuff) castiga lupta.
+Jigglypuff primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Jigglypuff
+	HP: 35
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+Squirtle (Dragos) vs Neutrel2
+Squirtle foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Squirtle
+	HP: 60
+	Normal Attack: N/A
+	Special Attack: 3
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 16
+
+Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Neutrel2 HP: 14 (stunned)
+
+Squirtle atac special / Neutrel2 nu face nimic
+Squirtle HP: 60 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Neutrel2 HP: 12
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 60   
+Neutrel2 HP: 10
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 60   
+Neutrel2 HP: 8
+
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 4
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 2  
+Neutrel2 HP: 2
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 1  
+Neutrel2 HP: 0
+
+Dragos (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+========Tip Batalie: Trainer vs Neutrel2========
+Jigglypuff (Laurentiu) vs Neutrel2
+Jigglypuff foloseste ITEM: {Name='Vestă', HP +10}
+POKEMON: {
+	Name: Jigglypuff
+	HP: 45
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Jigglypuff abilitate 1 / Neutrel2 atac normal
+Jigglypuff HP: 44 , Abilitate 1 cooldown 4  
+Neutrel2 HP: 16 (stunned)
+
+Jigglypuff abilitate 2 / Neutrel2 nu face nimic
+Jigglypuff HP: 44 , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 4 
+Neutrel2 HP: 13 (stunned)
+
+Jigglypuff atac normal / Neutrel2 nu face nimic
+Jigglypuff HP: 44 , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Neutrel2 HP: 9
+
+Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP: 43 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Neutrel2 HP: 5
+
+Jigglypuff atac normal / Neutrel2 atac normal
+Jigglypuff HP: 42  , Abilitate 2 cooldown 1 
+Neutrel2 HP: 1
+
+Jigglypuff abilitate 1 / Neutrel2 atac normal
+Jigglypuff HP: 41 , Abilitate 1 cooldown 4  
+Neutrel2 HP: 0 (stunned)
+
+Laurentiu (Jigglypuff) castiga lupta.
+Jigglypuff primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Jigglypuff
+	HP: 36
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+Squirtle (Dragos) vs Neutrel2
+Squirtle foloseste ITEM: {Name='Vestă', HP +10}
+POKEMON: {
+	Name: Squirtle
+	HP: 71
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP: 61  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 18 (stunned)
+
+Squirtle atac special / Neutrel2 nu face nimic
+Squirtle HP: 61  , Abilitate 2 cooldown 1 
+Neutrel2 HP: 15
+
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 11
+
+Squirtle abilitate 2 / Neutrel2 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Neutrel2 HP: 9 (stunned)
+
+Squirtle atac special / Neutrel2 nu face nimic
+Squirtle HP: 61 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Neutrel2 HP: 6
+
+Squirtle abilitate 1 / Neutrel2 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 2
+
+Squirtle atac special / Neutrel2 atac normal
+Squirtle HP: 61 , Abilitate 1 cooldown 2  
+Neutrel2 HP: 0
+
+Dragos (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 62
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Jigglypuff (Laurentiu) vs Squirtle (Dragos)
+Jigglypuff foloseste ITEM: {Name='Săbiuță', Attack +3}
+Squirtle foloseste ITEM: {Name='Săbiuță', Attack +3}
+POKEMON: {
+	Name: Jigglypuff
+	HP: 36
+	Normal Attack: 9
+	Special Attack: N/A
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 4}
+	}
+POKEMON: {
+	Name: Squirtle
+	HP: 62
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Jigglypuff abilitate 2 / Squirtle abilitate 1
+Jigglypuff HP: 32   , Abilitate 2 cooldown 4 
+Squirtle HP: 59  (stunned), Abilitate 1 cooldown 3 
+
+Jigglypuff atac normal / Squirtle nu face nimic
+Jigglypuff HP: 32   , Abilitate 2 cooldown 3 
+Squirtle HP: 57  , Abilitate 1 cooldown 2 
+
+Jigglypuff atac normal / Squirtle abilitate 2
+Jigglypuff HP: 30  (stunned) , Abilitate 2 cooldown 2 
+Squirtle HP: 55  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Jigglypuff nu face nimic / Squirtle abilitate 1
+Jigglypuff HP: 26   , Abilitate 2 cooldown 1 
+Squirtle HP: 55  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Jigglypuff abilitate 2 / Squirtle atac special
+Jigglypuff HP: 26   , Abilitate 2 cooldown 4 
+Squirtle HP: 52  (stunned), Abilitate 1 cooldown 2 
+
+Jigglypuff atac normal / Squirtle nu face nimic
+Jigglypuff HP: 26   , Abilitate 2 cooldown 3 
+Squirtle HP: 50  , Abilitate 1 cooldown 1 
+
+Jigglypuff atac normal / Squirtle abilitate 2
+Jigglypuff HP: 24  (stunned) , Abilitate 2 cooldown 2 
+Squirtle HP: 48   , Abilitate 2 cooldown 2
+
+Jigglypuff nu face nimic / Squirtle atac special
+Jigglypuff HP: 24   , Abilitate 2 cooldown 1 
+Squirtle HP: 48   , Abilitate 2 cooldown 1
+
+Jigglypuff abilitate 1 / Squirtle abilitate 1
+Jigglypuff HP: 20  , Abilitate 1 cooldown 4  
+Squirtle HP: 44  (stunned), Abilitate 1 cooldown 3 
+
+Jigglypuff atac normal / Squirtle nu face nimic
+Jigglypuff HP: 20  , Abilitate 1 cooldown 3  
+Squirtle HP: 42  , Abilitate 1 cooldown 2 
+
+Jigglypuff atac normal / Squirtle atac special
+Jigglypuff HP: 20  , Abilitate 1 cooldown 2  
+Squirtle HP: 40  , Abilitate 1 cooldown 1 
+
+Jigglypuff abilitate 2 / Squirtle abilitate 2
+Jigglypuff HP: 18  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 4 
+Squirtle HP: 37  (stunned) , Abilitate 2 cooldown 2
+
+Jigglypuff nu face nimic / Squirtle nu face nimic
+Jigglypuff HP: 18   , Abilitate 2 cooldown 3 
+Squirtle HP: 37   , Abilitate 2 cooldown 1
+
+Jigglypuff atac normal / Squirtle atac special
+Jigglypuff HP: 18   , Abilitate 2 cooldown 2 
+Squirtle HP: 35   
+
+Jigglypuff atac normal / Squirtle atac special
+Jigglypuff HP: 18   , Abilitate 2 cooldown 1 
+Squirtle HP: 33   
+
+Jigglypuff atac normal / Squirtle abilitate 2
+Jigglypuff HP: 16  (stunned)  
+Squirtle HP: 31   , Abilitate 2 cooldown 2
+
+Jigglypuff nu face nimic / Squirtle atac special
+Jigglypuff HP: 16    
+Squirtle HP: 31   , Abilitate 2 cooldown 1
+
+Jigglypuff abilitate 1 / Squirtle abilitate 2
+Jigglypuff HP: 14  (stunned), Abilitate 1 cooldown 4  
+Squirtle HP: 27  (stunned) , Abilitate 2 cooldown 2
+
+Jigglypuff nu face nimic / Squirtle nu face nimic
+Jigglypuff HP: 14  , Abilitate 1 cooldown 3  
+Squirtle HP: 27   , Abilitate 2 cooldown 1
+
+Jigglypuff abilitate 2 / Squirtle abilitate 2
+Jigglypuff HP: 12  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4 
+Squirtle HP: 24  (stunned) , Abilitate 2 cooldown 2
+
+Jigglypuff nu face nimic / Squirtle nu face nimic
+Jigglypuff HP: 12  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Squirtle HP: 24   , Abilitate 2 cooldown 1
+
+Jigglypuff atac normal / Squirtle abilitate 1
+Jigglypuff HP: 8   , Abilitate 2 cooldown 2 
+Squirtle HP: 22  , Abilitate 1 cooldown 3 
+
+Jigglypuff abilitate 1 / Squirtle atac special
+Jigglypuff HP: 8  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1 
+Squirtle HP: 18  (stunned), Abilitate 1 cooldown 2 
+
+Jigglypuff abilitate 2 / Squirtle nu face nimic
+Jigglypuff HP: 8  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 4 
+Squirtle HP: 15  (stunned), Abilitate 1 cooldown 1 
+
+Jigglypuff atac normal / Squirtle nu face nimic
+Jigglypuff HP: 8  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Squirtle HP: 13   
+
+Jigglypuff atac normal / Squirtle atac special
+Jigglypuff HP: 8  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Squirtle HP: 11   
+
+Jigglypuff atac normal / Squirtle abilitate 2
+Jigglypuff HP: 6  (stunned) , Abilitate 2 cooldown 1 
+Squirtle HP: 9   , Abilitate 2 cooldown 2
+
+Jigglypuff nu face nimic / Squirtle abilitate 1
+Jigglypuff HP: 2    
+Squirtle HP: 9  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Jigglypuff abilitate 2 / Squirtle abilitate 2
+Jigglypuff HP: 0  (stunned) , Abilitate 2 cooldown 4 
+Squirtle HP: 6  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Dragos (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 63
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 8
+	Special Def: 8
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+==========Duel 4: Cel mai bun vs cel mai bun==========
+========Tip Batalie: Trainer vs Trainer========
+Eevee (Laurentiu) vs Squirtle (Dragos)
+Eevee foloseste ITEM: {Name='Vitamine', HP +2, Attack +2, Special Attack +2}
+Squirtle foloseste ITEM: {Name='Scut', Def +2, Special Def +2}
+POKEMON: {
+	Name: Eevee
+	HP: 43
+	Normal Attack: N/A
+	Special Attack: 8
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Squirtle
+	HP: 63
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 10
+	Special Def: 10
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Eevee atac special / Squirtle abilitate 2
+Eevee HP: 41  (stunned)  
+Squirtle HP: 63   , Abilitate 2 cooldown 2
+
+Eevee nu face nimic / Squirtle atac special
+Eevee HP: 40    
+Squirtle HP: 63   , Abilitate 2 cooldown 1
+
+Eevee atac special / Squirtle abilitate 1
+Eevee HP: 36    
+Squirtle HP: 63  , Abilitate 1 cooldown 3 
+
+Eevee abilitate 1 / Squirtle abilitate 2
+Eevee HP: 34  (stunned), Abilitate 1 cooldown 3  
+Squirtle HP: 58  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Eevee nu face nimic / Squirtle atac special
+Eevee HP: 33  , Abilitate 1 cooldown 2  
+Squirtle HP: 58  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Eevee abilitate 2 / Squirtle atac special
+Eevee HP: 32  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Squirtle HP: 55  (stunned) 
+
+Eevee abilitate 1 / Squirtle nu face nimic
+Eevee HP: 32  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Squirtle HP: 50   
+
+Eevee atac special / Squirtle abilitate 2
+Eevee HP: 30  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Squirtle HP: 50   , Abilitate 2 cooldown 2
+
+Eevee nu face nimic / Squirtle abilitate 1
+Eevee HP: 26  , Abilitate 1 cooldown 1  
+Squirtle HP: 50  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Eevee abilitate 1 / Squirtle atac special
+Eevee HP: 25  , Abilitate 1 cooldown 3  
+Squirtle HP: 45  , Abilitate 1 cooldown 2 
+
+Eevee abilitate 2 / Squirtle abilitate 2
+Eevee HP: 23  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Squirtle HP: 42  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Eevee nu face nimic / Squirtle nu face nimic
+Eevee HP: 23  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Squirtle HP: 42   , Abilitate 2 cooldown 1
+
+Eevee abilitate 1 / Squirtle abilitate 2
+Eevee HP: 21  (stunned), Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Squirtle HP: 37   , Abilitate 2 cooldown 2
+
+Eevee nu face nimic / Squirtle atac special
+Eevee HP: 20  , Abilitate 1 cooldown 2  
+Squirtle HP: 37   , Abilitate 2 cooldown 1
+
+Eevee abilitate 2 / Squirtle atac special
+Eevee HP: 19  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Squirtle HP: 34  (stunned) 
+
+Eevee atac special / Squirtle nu face nimic
+Eevee HP: 19   , Abilitate 2 cooldown 2 
+Squirtle HP: 34   
+
+Eevee abilitate 1 / Squirtle atac special
+Eevee HP: 18  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Squirtle HP: 29   
+
+Eevee atac special / Squirtle abilitate 1
+Eevee HP: 14  , Abilitate 1 cooldown 2  
+Squirtle HP: 29  , Abilitate 1 cooldown 3 
+
+Eevee abilitate 2 / Squirtle atac special
+Eevee HP: 13  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Squirtle HP: 26  (stunned), Abilitate 1 cooldown 2 
+
+Eevee abilitate 1 / Squirtle nu face nimic
+Eevee HP: 13  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Squirtle HP: 21  , Abilitate 1 cooldown 1 
+
+Eevee atac special / Squirtle abilitate 1
+Eevee HP: 9  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Squirtle HP: 21  , Abilitate 1 cooldown 3 
+
+Eevee atac special / Squirtle atac special
+Eevee HP: 8  , Abilitate 1 cooldown 1  
+Squirtle HP: 21  , Abilitate 1 cooldown 2 
+
+Eevee abilitate 1 / Squirtle atac special
+Eevee HP: 7  , Abilitate 1 cooldown 3  
+Squirtle HP: 16  , Abilitate 1 cooldown 1 
+
+Eevee atac special / Squirtle abilitate 1
+Eevee HP: 3  , Abilitate 1 cooldown 2  
+Squirtle HP: 16  , Abilitate 1 cooldown 3 
+
+Eevee atac special / Squirtle atac special
+Eevee HP: 2  , Abilitate 1 cooldown 1  
+Squirtle HP: 16  , Abilitate 1 cooldown 2 
+
+Eevee atac special / Squirtle atac special
+Eevee HP: 1    
+Squirtle HP: 16  , Abilitate 1 cooldown 1 
+
+Eevee atac special / Squirtle atac special
+Eevee HP: 0    
+Squirtle HP: 16   
+
+Dragos (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 64
+	Normal Attack: N/A
+	Special Attack: 7
+	Def: 9
+	Special Def: 9
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}

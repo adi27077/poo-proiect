@@ -1,0 +1,960 @@
+Battle Log 7
+========================Aventura========================
+TRAINER: {
+Name: Sarac
+Age: 20
+Pokemons:
+	POKEMON: {
+	Name: Pikachu
+	HP: 35
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 2
+	Special Def: 3
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+	Items: None
+	POKEMON: {
+	Name: Vulpix
+	HP: 36
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 2
+	Special Def: 4
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+	Items: None
+	POKEMON: {
+	Name: Meowth
+	HP: 41
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 4
+	Special Def: 2
+	Ability 1: {DMG: 5, Stun: NO, Dodge: YES, CD: 4}
+	Ability 2: {DMG: 1, Stun: NO, Dodge: YES, CD: 3}
+	}
+	Items: None
+}
+TRAINER: {
+Name: AltSarac
+Age: 20
+Pokemons:
+	POKEMON: {
+	Name: Squirtle
+	HP: 60
+	Normal Attack: N/A
+	Special Attack: 3
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+	Items: None
+	POKEMON: {
+	Name: Eevee
+	HP: 39
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+	Items: None
+	POKEMON: {
+	Name: Charmander
+	HP: 50
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 3
+	Special Def: 2
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+	Items: None
+}
+==========Duel 1: Pokemon1 vs Pokemon1==========
+========Tip Batalie: Trainer vs Neutrel1========
+Pikachu (Sarac) vs Neutrel1
+POKEMON: {
+	Name: Pikachu
+	HP: 35
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 2
+	Special Def: 3
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Pikachu atac special / Neutrel1 atac normal
+Pikachu HP: 34   
+Neutrel1 HP: 7
+
+Pikachu atac special / Neutrel1 atac normal
+Pikachu HP: 33   
+Neutrel1 HP: 4
+
+Pikachu abilitate 2 / Neutrel1 atac normal
+Pikachu HP: 33 (dodge)  , Abilitate 2 cooldown 5 
+Neutrel1 HP: 0 (stunned)
+
+Sarac (Pikachu) castiga lupta.
+Pikachu primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Pikachu
+	HP: 36
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+Squirtle (AltSarac) vs Neutrel1
+POKEMON: {
+	Name: Squirtle
+	HP: 60
+	Normal Attack: N/A
+	Special Attack: 3
+	Def: 5
+	Special Def: 5
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+POKEMON: {
+	Name: Neutrel1
+	HP: 10
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Squirtle atac special / Neutrel1 atac normal
+Squirtle HP: 60   
+Neutrel1 HP: 8
+
+Squirtle abilitate 1 / Neutrel1 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 3  
+Neutrel1 HP: 4
+
+Squirtle atac special / Neutrel1 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 2  
+Neutrel1 HP: 2
+
+Squirtle atac special / Neutrel1 atac normal
+Squirtle HP: 60 , Abilitate 1 cooldown 1  
+Neutrel1 HP: 0
+
+AltSarac (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Pikachu (Sarac) vs Squirtle (AltSarac)
+POKEMON: {
+	Name: Pikachu
+	HP: 36
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 3
+	Special Def: 4
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Pikachu abilitate 2 / Squirtle atac special
+Pikachu HP: 36 (dodge)   , Abilitate 2 cooldown 5 
+Squirtle HP: 57  (stunned) 
+
+Pikachu atac special / Squirtle nu face nimic
+Pikachu HP: 36   , Abilitate 2 cooldown 4 
+Squirtle HP: 57   
+
+Pikachu abilitate 1 / Squirtle atac special
+Pikachu HP: 36  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 3 
+Squirtle HP: 51   
+
+Pikachu atac special / Squirtle abilitate 2
+Pikachu HP: 34  (stunned), Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Squirtle HP: 51   , Abilitate 2 cooldown 2
+
+Pikachu nu face nimic / Squirtle abilitate 1
+Pikachu HP: 30  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Squirtle HP: 51  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Pikachu atac special / Squirtle atac special
+Pikachu HP: 30  , Abilitate 1 cooldown 1  
+Squirtle HP: 51  , Abilitate 1 cooldown 2 
+
+Pikachu abilitate 2 / Squirtle atac special
+Pikachu HP: 30 (dodge)   , Abilitate 2 cooldown 5 
+Squirtle HP: 47  (stunned), Abilitate 1 cooldown 1 
+
+Pikachu atac special / Squirtle nu face nimic
+Pikachu HP: 30   , Abilitate 2 cooldown 4 
+Squirtle HP: 47   
+
+Pikachu atac special / Squirtle abilitate 1
+Pikachu HP: 26   , Abilitate 2 cooldown 3 
+Squirtle HP: 47  , Abilitate 1 cooldown 3 
+
+Pikachu atac special / Squirtle atac special
+Pikachu HP: 26   , Abilitate 2 cooldown 2 
+Squirtle HP: 47  , Abilitate 1 cooldown 2 
+
+Pikachu atac special / Squirtle atac special
+Pikachu HP: 26   , Abilitate 2 cooldown 1 
+Squirtle HP: 47  , Abilitate 1 cooldown 1 
+
+Pikachu abilitate 1 / Squirtle atac special
+Pikachu HP: 26  , Abilitate 1 cooldown 4  
+Squirtle HP: 41   
+
+Pikachu abilitate 2 / Squirtle abilitate 2
+Pikachu HP: 26 (dodge)  (stunned), Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5 
+Squirtle HP: 37  (stunned) , Abilitate 2 cooldown 2
+
+Pikachu nu face nimic / Squirtle nu face nimic
+Pikachu HP: 26  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 4 
+Squirtle HP: 37   , Abilitate 2 cooldown 1
+
+Pikachu atac special / Squirtle abilitate 1
+Pikachu HP: 22  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Squirtle HP: 37  , Abilitate 1 cooldown 3 
+
+Pikachu atac special / Squirtle atac special
+Pikachu HP: 22   , Abilitate 2 cooldown 2 
+Squirtle HP: 37  , Abilitate 1 cooldown 2 
+
+Pikachu atac special / Squirtle atac special
+Pikachu HP: 22   , Abilitate 2 cooldown 1 
+Squirtle HP: 37  , Abilitate 1 cooldown 1 
+
+Pikachu atac special / Squirtle atac special
+Pikachu HP: 22    
+Squirtle HP: 37   
+
+Pikachu abilitate 1 / Squirtle abilitate 2
+Pikachu HP: 20  (stunned), Abilitate 1 cooldown 4  
+Squirtle HP: 31   , Abilitate 2 cooldown 2
+
+Pikachu nu face nimic / Squirtle atac special
+Pikachu HP: 20  , Abilitate 1 cooldown 3  
+Squirtle HP: 31   , Abilitate 2 cooldown 1
+
+Pikachu atac special / Squirtle atac special
+Pikachu HP: 20  , Abilitate 1 cooldown 2  
+Squirtle HP: 31   
+
+Pikachu abilitate 2 / Squirtle abilitate 1
+Pikachu HP: 20 (dodge)  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 5 
+Squirtle HP: 27  (stunned), Abilitate 1 cooldown 3 
+
+Pikachu abilitate 1 / Squirtle nu face nimic
+Pikachu HP: 20  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4 
+Squirtle HP: 21  , Abilitate 1 cooldown 2 
+
+Pikachu atac special / Squirtle atac special
+Pikachu HP: 20  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3 
+Squirtle HP: 21  , Abilitate 1 cooldown 1 
+
+Pikachu atac special / Squirtle abilitate 2
+Pikachu HP: 18  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Squirtle HP: 21   , Abilitate 2 cooldown 2
+
+Pikachu nu face nimic / Squirtle atac special
+Pikachu HP: 18  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Squirtle HP: 21   , Abilitate 2 cooldown 1
+
+Pikachu abilitate 2 / Squirtle abilitate 2
+Pikachu HP: 18 (dodge)  (stunned) , Abilitate 2 cooldown 5 
+Squirtle HP: 17  (stunned) , Abilitate 2 cooldown 2
+
+Pikachu nu face nimic / Squirtle nu face nimic
+Pikachu HP: 18   , Abilitate 2 cooldown 4 
+Squirtle HP: 17   , Abilitate 2 cooldown 1
+
+Pikachu abilitate 1 / Squirtle abilitate 2
+Pikachu HP: 16  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 3 
+Squirtle HP: 11   , Abilitate 2 cooldown 2
+
+Pikachu nu face nimic / Squirtle atac special
+Pikachu HP: 16  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2 
+Squirtle HP: 11   , Abilitate 2 cooldown 1
+
+Pikachu atac special / Squirtle abilitate 2
+Pikachu HP: 14  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1 
+Squirtle HP: 11   , Abilitate 2 cooldown 2
+
+Pikachu nu face nimic / Squirtle atac special
+Pikachu HP: 14  , Abilitate 1 cooldown 1  
+Squirtle HP: 11   , Abilitate 2 cooldown 1
+
+Pikachu atac special / Squirtle atac special
+Pikachu HP: 14    
+Squirtle HP: 11   
+
+Pikachu abilitate 1 / Squirtle abilitate 2
+Pikachu HP: 12  (stunned), Abilitate 1 cooldown 4  
+Squirtle HP: 5   , Abilitate 2 cooldown 2
+
+Pikachu nu face nimic / Squirtle atac special
+Pikachu HP: 12  , Abilitate 1 cooldown 3  
+Squirtle HP: 5   , Abilitate 2 cooldown 1
+
+Pikachu atac special / Squirtle abilitate 1
+Pikachu HP: 8  , Abilitate 1 cooldown 2  
+Squirtle HP: 5  , Abilitate 1 cooldown 3 
+
+Pikachu abilitate 2 / Squirtle atac special
+Pikachu HP: 8 (dodge)  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 5 
+Squirtle HP: 1  (stunned), Abilitate 1 cooldown 2 
+
+Pikachu atac special / Squirtle nu face nimic
+Pikachu HP: 8   , Abilitate 2 cooldown 4 
+Squirtle HP: 1  , Abilitate 1 cooldown 1 
+
+Pikachu abilitate 1 / Squirtle abilitate 2
+Pikachu HP: 6  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 3 
+Squirtle HP: 0   , Abilitate 2 cooldown 2
+
+Sarac (Pikachu) castiga lupta.
+Pikachu primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Pikachu
+	HP: 37
+	Normal Attack: N/A
+	Special Attack: 6
+	Def: 4
+	Special Def: 5
+	Ability 1: {DMG: 6, Stun: NO, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 4, Stun: YES, Dodge: YES, CD: 5}
+	}
+==========Duel 2: Pokemon2 vs Pokemon2==========
+========Tip Batalie: Trainer vs Neutrel2========
+Vulpix (Sarac) vs Neutrel2
+POKEMON: {
+	Name: Vulpix
+	HP: 36
+	Normal Attack: 5
+	Special Attack: N/A
+	Def: 2
+	Special Def: 4
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP: 34   
+Neutrel2 HP: 16
+
+Vulpix abilitate 1 / Neutrel2 atac normal
+Vulpix HP: 32 , Abilitate 1 cooldown 6  
+Neutrel2 HP: 8 (stunned)
+
+Vulpix abilitate 2 / Neutrel2 nu face nimic
+Vulpix HP: 32 (dodge) , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 7 
+Neutrel2 HP: 6
+
+Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP: 30 , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 6 
+Neutrel2 HP: 2
+
+Vulpix atac normal / Neutrel2 atac normal
+Vulpix HP: 28 , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 5 
+Neutrel2 HP: 0
+
+Sarac (Vulpix) castiga lupta.
+Vulpix primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Vulpix
+	HP: 37
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 3
+	Special Def: 5
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+Eevee (AltSarac) vs Neutrel2
+POKEMON: {
+	Name: Eevee
+	HP: 39
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 3
+	Special Def: 3
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+POKEMON: {
+	Name: Neutrel2
+	HP: 20
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 1
+	Special Def: 1
+	Ability 1: N/A
+	Ability 2: N/A
+	}
+Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP: 38  , Abilitate 2 cooldown 3 
+Neutrel2 HP: 17 (stunned)
+
+Eevee atac special / Neutrel2 nu face nimic
+Eevee HP: 38  , Abilitate 2 cooldown 2 
+Neutrel2 HP: 14
+
+Eevee atac special / Neutrel2 atac normal
+Eevee HP: 37  , Abilitate 2 cooldown 1 
+Neutrel2 HP: 11
+
+Eevee abilitate 1 / Neutrel2 atac normal
+Eevee HP: 36 , Abilitate 1 cooldown 3  
+Neutrel2 HP: 6
+
+Eevee abilitate 2 / Neutrel2 atac normal
+Eevee HP: 35 , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Neutrel2 HP: 3 (stunned)
+
+Eevee atac special / Neutrel2 nu face nimic
+Eevee HP: 35 , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Neutrel2 HP: 0
+
+AltSarac (Eevee) castiga lupta.
+Eevee primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Eevee
+	HP: 40
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 4
+	Special Def: 4
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+========Tip Batalie: Trainer vs Trainer========
+Vulpix (Sarac) vs Eevee (AltSarac)
+POKEMON: {
+	Name: Vulpix
+	HP: 37
+	Normal Attack: 6
+	Special Attack: N/A
+	Def: 3
+	Special Def: 5
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+POKEMON: {
+	Name: Eevee
+	HP: 40
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 4
+	Special Def: 4
+	Ability 1: {DMG: 5, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 3, Stun: YES, Dodge: NO, CD: 3}
+	}
+Vulpix atac normal / Eevee atac special
+Vulpix HP: 37    
+Eevee HP: 38   
+
+Vulpix abilitate 2 / Eevee atac special
+Vulpix HP: 37 (dodge)   , Abilitate 2 cooldown 7 
+Eevee HP: 36   
+
+Vulpix abilitate 1 / Eevee abilitate 2
+Vulpix HP: 34  (stunned), Abilitate 1 cooldown 6 , Abilitate 2 cooldown 6 
+Eevee HP: 28  (stunned) , Abilitate 2 cooldown 3
+
+Vulpix nu face nimic / Eevee nu face nimic
+Vulpix HP: 34  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 5 
+Eevee HP: 28   , Abilitate 2 cooldown 2
+
+Vulpix atac normal / Eevee atac special
+Vulpix HP: 34  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4 
+Eevee HP: 26   , Abilitate 2 cooldown 1
+
+Vulpix atac normal / Eevee atac special
+Vulpix HP: 34  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3 
+Eevee HP: 24   
+
+Vulpix atac normal / Eevee abilitate 2
+Vulpix HP: 31  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Eevee HP: 22   , Abilitate 2 cooldown 3
+
+Vulpix nu face nimic / Eevee abilitate 1
+Vulpix HP: 26  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Eevee HP: 22  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2
+
+Vulpix atac normal / Eevee atac special
+Vulpix HP: 26    
+Eevee HP: 20  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1
+
+Vulpix abilitate 2 / Eevee atac special
+Vulpix HP: 26 (dodge)   , Abilitate 2 cooldown 7 
+Eevee HP: 18  , Abilitate 1 cooldown 1 
+
+Vulpix atac normal / Eevee atac special
+Vulpix HP: 26   , Abilitate 2 cooldown 6 
+Eevee HP: 16   
+
+Vulpix atac normal / Eevee abilitate 2
+Vulpix HP: 23  (stunned) , Abilitate 2 cooldown 5 
+Eevee HP: 14   , Abilitate 2 cooldown 3
+
+Vulpix nu face nimic / Eevee abilitate 1
+Vulpix HP: 18   , Abilitate 2 cooldown 4 
+Eevee HP: 14  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2
+
+Vulpix abilitate 1 / Eevee atac special
+Vulpix HP: 18  , Abilitate 1 cooldown 6 , Abilitate 2 cooldown 3 
+Eevee HP: 6  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1
+
+Vulpix atac normal / Eevee nu face nimic
+Vulpix HP: 18  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 2 
+Eevee HP: 4  , Abilitate 1 cooldown 1 
+
+Vulpix atac normal / Eevee abilitate 2
+Vulpix HP: 15  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1 
+Eevee HP: 2   , Abilitate 2 cooldown 3
+
+Vulpix nu face nimic / Eevee atac special
+Vulpix HP: 15  , Abilitate 1 cooldown 3  
+Eevee HP: 2   , Abilitate 2 cooldown 2
+
+Vulpix abilitate 2 / Eevee atac special
+Vulpix HP: 15 (dodge)  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 7 
+Eevee HP: 0   , Abilitate 2 cooldown 1
+
+Sarac (Vulpix) castiga lupta.
+Vulpix primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Vulpix
+	HP: 38
+	Normal Attack: 7
+	Special Attack: N/A
+	Def: 4
+	Special Def: 6
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+==========Duel 3: Pokemon3 vs Pokemon3==========
+========Tip Batalie: Trainer vs Trainer========
+Meowth (Sarac) vs Charmander (AltSarac)
+POKEMON: {
+	Name: Meowth
+	HP: 41
+	Normal Attack: 3
+	Special Attack: N/A
+	Def: 4
+	Special Def: 2
+	Ability 1: {DMG: 5, Stun: NO, Dodge: YES, CD: 4}
+	Ability 2: {DMG: 1, Stun: NO, Dodge: YES, CD: 3}
+	}
+POKEMON: {
+	Name: Charmander
+	HP: 50
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 3
+	Special Def: 2
+	Ability 1: {DMG: 4, Stun: YES, Dodge: NO, CD: 4}
+	Ability 2: {DMG: 7, Stun: NO, Dodge: NO, CD: 6}
+	}
+Meowth atac normal / Charmander atac normal
+Meowth HP: 41    
+Charmander HP: 50   
+
+Meowth abilitate 2 / Charmander abilitate 2
+Meowth HP: 41 (dodge)   , Abilitate 2 cooldown 3 
+Charmander HP: 49   , Abilitate 2 cooldown 6
+
+Meowth abilitate 1 / Charmander abilitate 1
+Meowth HP: 41 (dodge)  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2 
+Charmander HP: 44  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 5
+
+Meowth nu face nimic / Charmander atac normal
+Meowth HP: 41  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Charmander HP: 44  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 4
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 41  , Abilitate 1 cooldown 2  
+Charmander HP: 44  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3
+
+Meowth abilitate 2 / Charmander atac normal
+Meowth HP: 41 (dodge)  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Charmander HP: 43  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 41   , Abilitate 2 cooldown 2 
+Charmander HP: 43   , Abilitate 2 cooldown 1
+
+Meowth atac normal / Charmander abilitate 2
+Meowth HP: 34   , Abilitate 2 cooldown 1 
+Charmander HP: 43   , Abilitate 2 cooldown 6
+
+Meowth abilitate 1 / Charmander abilitate 1
+Meowth HP: 34 (dodge)  (stunned), Abilitate 1 cooldown 4  
+Charmander HP: 38  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 5
+
+Meowth nu face nimic / Charmander atac normal
+Meowth HP: 34  , Abilitate 1 cooldown 3  
+Charmander HP: 38  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 4
+
+Meowth abilitate 2 / Charmander atac normal
+Meowth HP: 34 (dodge)  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Charmander HP: 37  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 34  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Charmander HP: 37  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 34   , Abilitate 2 cooldown 1 
+Charmander HP: 37   , Abilitate 2 cooldown 1
+
+Meowth abilitate 1 / Charmander abilitate 1
+Meowth HP: 34 (dodge)  (stunned), Abilitate 1 cooldown 4  
+Charmander HP: 32  , Abilitate 1 cooldown 4 
+
+Meowth nu face nimic / Charmander atac normal
+Meowth HP: 34  , Abilitate 1 cooldown 3  
+Charmander HP: 32  , Abilitate 1 cooldown 3 
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 34  , Abilitate 1 cooldown 2  
+Charmander HP: 32  , Abilitate 1 cooldown 2 
+
+Meowth abilitate 2 / Charmander abilitate 2
+Meowth HP: 34 (dodge)  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 3 
+Charmander HP: 31  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 6
+
+Meowth abilitate 1 / Charmander abilitate 1
+Meowth HP: 34 (dodge)  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 2 
+Charmander HP: 26  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 5
+
+Meowth nu face nimic / Charmander atac normal
+Meowth HP: 34  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1 
+Charmander HP: 26  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 4
+
+Meowth abilitate 2 / Charmander atac normal
+Meowth HP: 34 (dodge)  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Charmander HP: 25  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 34  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Charmander HP: 25  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Meowth abilitate 1 / Charmander atac normal
+Meowth HP: 34 (dodge)  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1 
+Charmander HP: 20   , Abilitate 2 cooldown 1
+
+Meowth atac normal / Charmander abilitate 2
+Meowth HP: 27  , Abilitate 1 cooldown 3  
+Charmander HP: 20   , Abilitate 2 cooldown 6
+
+Meowth abilitate 2 / Charmander atac normal
+Meowth HP: 27 (dodge)  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 3 
+Charmander HP: 19   , Abilitate 2 cooldown 5
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 27  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2 
+Charmander HP: 19   , Abilitate 2 cooldown 4
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 27   , Abilitate 2 cooldown 1 
+Charmander HP: 19   , Abilitate 2 cooldown 3
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 27    
+Charmander HP: 19   , Abilitate 2 cooldown 2
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 27    
+Charmander HP: 19   , Abilitate 2 cooldown 1
+
+Meowth abilitate 2 / Charmander atac normal
+Meowth HP: 27 (dodge)   , Abilitate 2 cooldown 3 
+Charmander HP: 18   
+
+Meowth atac normal / Charmander abilitate 1
+Meowth HP: 23  (stunned) , Abilitate 2 cooldown 2 
+Charmander HP: 18  , Abilitate 1 cooldown 4 
+
+Meowth nu face nimic / Charmander atac normal
+Meowth HP: 23   , Abilitate 2 cooldown 1 
+Charmander HP: 18  , Abilitate 1 cooldown 3 
+
+Meowth abilitate 2 / Charmander atac normal
+Meowth HP: 23 (dodge)   , Abilitate 2 cooldown 3 
+Charmander HP: 17  , Abilitate 1 cooldown 2 
+
+Meowth atac normal / Charmander abilitate 2
+Meowth HP: 16   , Abilitate 2 cooldown 2 
+Charmander HP: 17  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 6
+
+Meowth abilitate 1 / Charmander atac normal
+Meowth HP: 16 (dodge)  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1 
+Charmander HP: 12   , Abilitate 2 cooldown 5
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 16  , Abilitate 1 cooldown 3  
+Charmander HP: 12   , Abilitate 2 cooldown 4
+
+Meowth atac normal / Charmander abilitate 1
+Meowth HP: 12  (stunned), Abilitate 1 cooldown 2  
+Charmander HP: 12  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 3
+
+Meowth nu face nimic / Charmander atac normal
+Meowth HP: 12  , Abilitate 1 cooldown 1  
+Charmander HP: 12  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 2
+
+Meowth abilitate 2 / Charmander atac normal
+Meowth HP: 12 (dodge)   , Abilitate 2 cooldown 3 
+Charmander HP: 11  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 1
+
+Meowth atac normal / Charmander abilitate 2
+Meowth HP: 5   , Abilitate 2 cooldown 2 
+Charmander HP: 11  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 6
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 5   , Abilitate 2 cooldown 1 
+Charmander HP: 11   , Abilitate 2 cooldown 5
+
+Meowth atac normal / Charmander abilitate 1
+Meowth HP: 1  (stunned)  
+Charmander HP: 11  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4
+
+Meowth nu face nimic / Charmander atac normal
+Meowth HP: 1    
+Charmander HP: 11  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3
+
+Meowth abilitate 2 / Charmander atac normal
+Meowth HP: 1 (dodge)   , Abilitate 2 cooldown 3 
+Charmander HP: 10  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 1   , Abilitate 2 cooldown 2 
+Charmander HP: 10  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Meowth abilitate 1 / Charmander atac normal
+Meowth HP: 1 (dodge)  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1 
+Charmander HP: 5   
+
+Meowth abilitate 2 / Charmander abilitate 2
+Meowth HP: 1 (dodge)  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3 
+Charmander HP: 4   , Abilitate 2 cooldown 6
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 1  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Charmander HP: 4   , Abilitate 2 cooldown 5
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 1  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Charmander HP: 4   , Abilitate 2 cooldown 4
+
+Meowth abilitate 2 / Charmander atac normal
+Meowth HP: 1 (dodge)   , Abilitate 2 cooldown 3 
+Charmander HP: 3   , Abilitate 2 cooldown 3
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 1   , Abilitate 2 cooldown 2 
+Charmander HP: 3   , Abilitate 2 cooldown 2
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 1   , Abilitate 2 cooldown 1 
+Charmander HP: 3   , Abilitate 2 cooldown 1
+
+Meowth abilitate 2 / Charmander atac normal
+Meowth HP: 1 (dodge)   , Abilitate 2 cooldown 3 
+Charmander HP: 2   
+
+Meowth atac normal / Charmander atac normal
+Meowth HP: 1   , Abilitate 2 cooldown 2 
+Charmander HP: 2   
+
+Meowth abilitate 1 / Charmander atac normal
+Meowth HP: 1 (dodge)  , Abilitate 1 cooldown 4 , Abilitate 2 cooldown 1 
+Charmander HP: 0   
+
+Sarac (Meowth) castiga lupta.
+Meowth primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Meowth
+	HP: 42
+	Normal Attack: 4
+	Special Attack: N/A
+	Def: 5
+	Special Def: 3
+	Ability 1: {DMG: 5, Stun: NO, Dodge: YES, CD: 4}
+	Ability 2: {DMG: 1, Stun: NO, Dodge: YES, CD: 3}
+	}
+==========Duel 4: Cel mai bun vs cel mai bun==========
+========Tip Batalie: Trainer vs Trainer========
+Vulpix (Sarac) vs Squirtle (AltSarac)
+POKEMON: {
+	Name: Vulpix
+	HP: 38
+	Normal Attack: 7
+	Special Attack: N/A
+	Def: 4
+	Special Def: 6
+	Ability 1: {DMG: 8, Stun: YES, Dodge: NO, CD: 6}
+	Ability 2: {DMG: 2, Stun: NO, Dodge: YES, CD: 7}
+	}
+POKEMON: {
+	Name: Squirtle
+	HP: 61
+	Normal Attack: N/A
+	Special Attack: 4
+	Def: 6
+	Special Def: 6
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
+Vulpix abilitate 1 / Squirtle abilitate 1
+Vulpix HP: 34  , Abilitate 1 cooldown 6  
+Squirtle HP: 53  (stunned), Abilitate 1 cooldown 3 
+
+Vulpix atac normal / Squirtle nu face nimic
+Vulpix HP: 34  , Abilitate 1 cooldown 5  
+Squirtle HP: 52  , Abilitate 1 cooldown 2 
+
+Vulpix atac normal / Squirtle atac special
+Vulpix HP: 34  , Abilitate 1 cooldown 4  
+Squirtle HP: 51  , Abilitate 1 cooldown 1 
+
+Vulpix atac normal / Squirtle abilitate 1
+Vulpix HP: 30  , Abilitate 1 cooldown 3  
+Squirtle HP: 50  , Abilitate 1 cooldown 3 
+
+Vulpix atac normal / Squirtle abilitate 2
+Vulpix HP: 28  (stunned), Abilitate 1 cooldown 2  
+Squirtle HP: 49  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Vulpix nu face nimic / Squirtle atac special
+Vulpix HP: 28  , Abilitate 1 cooldown 1  
+Squirtle HP: 49  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Vulpix atac normal / Squirtle abilitate 1
+Vulpix HP: 24    
+Squirtle HP: 48  , Abilitate 1 cooldown 3 
+
+Vulpix atac normal / Squirtle abilitate 2
+Vulpix HP: 22  (stunned)  
+Squirtle HP: 47  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Vulpix nu face nimic / Squirtle atac special
+Vulpix HP: 22    
+Squirtle HP: 47  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Vulpix abilitate 2 / Squirtle abilitate 1
+Vulpix HP: 22 (dodge)   , Abilitate 2 cooldown 7 
+Squirtle HP: 45  , Abilitate 1 cooldown 3 
+
+Vulpix abilitate 1 / Squirtle abilitate 2
+Vulpix HP: 20  (stunned), Abilitate 1 cooldown 6 , Abilitate 2 cooldown 6 
+Squirtle HP: 37  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+Vulpix nu face nimic / Squirtle nu face nimic
+Vulpix HP: 20  , Abilitate 1 cooldown 5 , Abilitate 2 cooldown 5 
+Squirtle HP: 37  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1
+
+Vulpix atac normal / Squirtle abilitate 2
+Vulpix HP: 18  (stunned), Abilitate 1 cooldown 4 , Abilitate 2 cooldown 4 
+Squirtle HP: 36   , Abilitate 2 cooldown 2
+
+Vulpix nu face nimic / Squirtle abilitate 1
+Vulpix HP: 14  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 3 
+Squirtle HP: 36  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Vulpix atac normal / Squirtle atac special
+Vulpix HP: 14  , Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2 
+Squirtle HP: 35  , Abilitate 1 cooldown 2 
+
+Vulpix atac normal / Squirtle abilitate 2
+Vulpix HP: 12  (stunned), Abilitate 1 cooldown 1 , Abilitate 2 cooldown 1 
+Squirtle HP: 34  , Abilitate 1 cooldown 1 , Abilitate 2 cooldown 2
+
+Vulpix nu face nimic / Squirtle abilitate 1
+Vulpix HP: 8    
+Squirtle HP: 34  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Vulpix atac normal / Squirtle atac special
+Vulpix HP: 8    
+Squirtle HP: 33  , Abilitate 1 cooldown 2 
+
+Vulpix atac normal / Squirtle atac special
+Vulpix HP: 8    
+Squirtle HP: 32  , Abilitate 1 cooldown 1 
+
+Vulpix atac normal / Squirtle atac special
+Vulpix HP: 8    
+Squirtle HP: 31   
+
+Vulpix atac normal / Squirtle abilitate 2
+Vulpix HP: 6  (stunned)  
+Squirtle HP: 30   , Abilitate 2 cooldown 2
+
+Vulpix nu face nimic / Squirtle abilitate 1
+Vulpix HP: 2    
+Squirtle HP: 30  , Abilitate 1 cooldown 3 , Abilitate 2 cooldown 1
+
+Vulpix abilitate 1 / Squirtle abilitate 2
+Vulpix HP: 0  (stunned), Abilitate 1 cooldown 6  
+Squirtle HP: 22  (stunned), Abilitate 1 cooldown 2 , Abilitate 2 cooldown 2
+
+AltSarac (Squirtle) castiga lupta.
+Squirtle primeste +1 la toate caracteristicile:
+POKEMON: {
+	Name: Squirtle
+	HP: 62
+	Normal Attack: N/A
+	Special Attack: 5
+	Def: 7
+	Special Def: 7
+	Ability 1: {DMG: 4, Stun: NO, Dodge: NO, CD: 3}
+	Ability 2: {DMG: 2, Stun: YES, Dodge: NO, CD: 2}
+	}
